@@ -1,7 +1,7 @@
 {
   // One Worker serves the website (dist/) AND the API (/api/*).
   // Cloudflare builds and deploys it from GitHub on every push.
-  "name": "aphrodite",
+  "name": "reading-ultimate",
   "main": "worker/src/index.js",
   "compatibility_date": "2026-10-01",
   "assets": { "directory": "./dist", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
