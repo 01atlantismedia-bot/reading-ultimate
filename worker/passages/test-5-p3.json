@@ -1,0 +1,605 @@
+{
+ "id": "test-5-p3",
+ "format": "test",
+ "test": 5,
+ "part": 3,
+ "title": "Science in the kitchen",
+ "subtitle": "Chefs are bringing a new standard of experimentation and precision to their cooking",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "There is a recent movement in the world of food, in which chefs are collaborating with scientists to teach themselves the chemistry and physics of cuisine."
+    },
+    {
+     "id": "p1s2",
+     "text": "Even academics are getting excited about the results."
+    },
+    {
+     "id": "p1s3",
+     "text": "Colin Osborne of the Royal Society of Chemistry in London is enthused: 'Chefs are using unusual methods to produce exciting dishes that would be impossible without modern science,' he says."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "You may wonder what's wrong with long-established culinary traditions."
+    },
+    {
+     "id": "p2s2",
+     "text": "The fact is, many culturally ingrained cooking methods are less than perfect."
+    },
+    {
+     "id": "p2s3",
+     "text": "Osborne gives the example of the common belief that frying meat seals in moisture, while researchers who weighed the meat actually found that moisture is lost in the process."
+    },
+    {
+     "id": "p2s4",
+     "text": "Another example is the age-old technique of adding salt when boiling vegetables to raise the water's boiling point, thus cooking the vegetables faster."
+    },
+    {
+     "id": "p2s5",
+     "text": "In fact, the amount of salt typically added does not raise the temperature significantly – or improve the flavour, since only a minuscule amount is absorbed."
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "Hervé This, director of the Molecular Gastronomy team at the French National Institute for Agricultural Research, spends much of his time trying to disprove culinary old wives' tales."
+    },
+    {
+     "id": "p3s2",
+     "text": "He is empirically testing traditional beliefs about cooking and disproving the more absurd, tackling such questions as whether it's better to add vinaigrette to potato salad while the potatoes are still hot."
+    },
+    {
+     "id": "p3s3",
+     "text": "'The first modern chemists used kitchen equipment to do their experiments,' Hervé This explains."
+    },
+    {
+     "id": "p3s4",
+     "text": "'Since then, chemistry has undergone massive changes – but cooking methods have remained largely as they were in the Middle Ages.'"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "It's seriously important work, says Peter Barham, a physicist at Bristol University."
+    },
+    {
+     "id": "p4s2",
+     "text": "'If you understand what's going on in cooking, you'll be better equipped to improve it.'"
+    },
+    {
+     "id": "p4s3",
+     "text": "Barham contends that it's difficult to get good results from cookery books, because recipes are typically poorly written."
+    },
+    {
+     "id": "p4s4",
+     "text": "In stark contrast, he notes, scientific papers are subject to peer review, whereby experts pore over experiments to ensure they can be accurately reproduced."
+    },
+    {
+     "id": "p4s5",
+     "text": "Barham also collaborates with leading British chef Heston Blumenthal, proprietor of The Fat Duck, a restaurant in the south of England."
+    },
+    {
+     "id": "p4s6",
+     "text": "The restaurant is widely regarded as one of the best in the world, serving delightfully unexpected dishes such as nitro-scrambled egg and bacon ice cream."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "When Simon Campbell of the Royal Society of Chemistry bestowed an honorary fellowship on Blumenthal for creative applications of science to cooking, he said: 'The scientific community admires and respects the research that Mr Blumenthal has performed to harness cuisine to science."
+    },
+    {
+     "id": "p5s2",
+     "text": "Through his inquisitive and innovative approach to food he has underlined spectacularly how chemistry permeates all aspects of texture, taste and smell.'"
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p6s1",
+     "text": "Such restaurants are part of the movement known as 'molecular gastronomy', an expression coined by physicist Nicholas Kurti, working in collaboration with Hervé This."
+    },
+    {
+     "id": "p6s2",
+     "text": "Kurti once quipped that it is a sad reflection that we know the temperature inside the stars better than the temperature inside a soufflé*."
+    },
+    {
+     "id": "p6s3",
+     "text": "Kurti and Hervé This devised the expression 'molecular gastronomy' during the 1980s to denote the science of 'culinary transformations and eating phenomena' and differentiate it from food science."
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p7s1",
+     "text": "'Twenty years ago, the worlds of science and cooking were neatly compartmentalised,' agrees author Harold McGee, a top food science writer."
+    },
+    {
+     "id": "p7s2",
+     "text": "'There was food science: an applied science mainly concerned with understanding the materials and process of industrial manufacturing."
+    },
+    {
+     "id": "p7s3",
+     "text": "And there was the world of domestic and restaurant cooking, traditional crafts that had never attracted much scientific attention.'"
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p8s1",
+     "text": "A lot has changed in the two decades since he published his influential book on the topic."
+    },
+    {
+     "id": "p8s2",
+     "text": "In a revised edition, McGee says the book was 'riding a rising wave of general interest in food, a wave that grew and grew, and knocked down the barriers between science and cooking, especially in the last decade."
+    },
+    {
+     "id": "p8s3",
+     "text": "Science has found its way into the kitchen, and cooking into laboratories.'"
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p9s1",
+     "text": "So what does the future hold?"
+    },
+    {
+     "id": "p9s2",
+     "text": "Rachel Edwards-Stuart is a graduate PhD student who is studying some remarkable food additives, including modified cellulose gels that solidify on heating and melt again as they are cooled."
+    },
+    {
+     "id": "p9s3",
+     "text": "The idea is to make dishes that develop different flavours as they are eaten."
+    },
+    {
+     "id": "p9s4",
+     "text": "Her other project is creating drinks that change flavour."
+    },
+    {
+     "id": "p9s5",
+     "text": "'The concept came from..."
+    },
+    {
+     "id": "p9s6",
+     "text": "Roald Dahl's children's book Charlie and the Chocolate Factory , where Willy Wonka makes a bubble gum that is a whole meal in one sweet,' she says."
+    },
+    {
+     "id": "p9s7",
+     "text": "Unfortunately, Edwards-Stuart was unable to say more, due to a confidentiality agreement with the restaurant for which she conducts her research."
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p10s1",
+     "text": "While Hervé This, Blumenthal and Edwards-Stuart are the pioneers, the next phase will be to bring science into kitchens at home."
+    },
+    {
+     "id": "p10s2",
+     "text": "Already there are books that provide an insight into the wondrous chemistry that turns humble ingredients into cuisine."
+    },
+    {
+     "id": "p10s3",
+     "text": "And as the movement grows it will not be long before we see laboratory test tubes, flasks and maybe the odd centrifuge on sale next to carving knives, rolling pins and pressure cookers."
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p11s1",
+     "text": "* soufflé: a French dish made using beaten eggs"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 27–31",
+   "intro": "<p>Do the following statements agree with the claims of the writer in Reading Passage 3?</p>",
+   "questions": [
+    {
+     "id": "q27",
+     "n": 27,
+     "prompt": "Scientists and chefs have a long-established history of working together.",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "answer": "NO",
+     "anchors": [
+      "long-established",
+      "Scientists",
+      "working",
+      "chefs"
+     ],
+     "evidence": "p1s1",
+     "conf": "med",
+     "where": "paragraph 1, sentence 1",
+     "matches": [
+      "chefs",
+      "scientists"
+     ]
+    },
+    {
+     "id": "q28",
+     "n": 28,
+     "prompt": "Traditional ways of cooking tend to be supported by modern scientific research.",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "answer": "NO",
+     "anchors": [
+      "Traditional",
+      "modern",
+      "scientific",
+      "research"
+     ],
+     "evidence": "p5s1",
+     "conf": "med",
+     "where": "paragraph 5, sentence 1",
+     "matches": [
+      "scientific",
+      "research"
+     ]
+    },
+    {
+     "id": "q29",
+     "n": 29,
+     "prompt": "The food produced by Heston Blumenthal at The Fat Duck is unconventional.",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "answer": "YES",
+     "anchors": [
+      "Heston Blumenthal",
+      "Fat Duck",
+      "food",
+      "unconventional",
+      "produced"
+     ],
+     "evidence": "p4s5",
+     "conf": "high",
+     "where": "paragraph 4, sentence 5",
+     "matches": [
+      "Heston",
+      "Blumenthal",
+      "Fat",
+      "Duck"
+     ]
+    },
+    {
+     "id": "q30",
+     "n": 30,
+     "prompt": "El Bulli is the most popular restaurant of its kind in Spain.",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "answer": "NOT GIVEN",
+     "anchors": [
+      "Bulli",
+      "Spain",
+      "most",
+      "restaurant",
+      "popular",
+      "kind"
+     ],
+     "evidence": "p4s5",
+     "conf": "low",
+     "where": "paragraph 4, sentence 5",
+     "matches": [
+      "restaurant"
+     ]
+    },
+    {
+     "id": "q31",
+     "n": 31,
+     "prompt": "McGee has plans to open his own restaurant.",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "answer": "NOT GIVEN",
+     "anchors": [
+      "McGee",
+      "restaurant",
+      "plans",
+      "open"
+     ],
+     "evidence": "p4s5",
+     "conf": "low",
+     "where": "paragraph 4, sentence 5",
+     "matches": [
+      "restaurant"
+     ]
+    }
+   ],
+   "type": "ynng"
+  },
+  {
+   "id": "g2",
+   "title": "Questions 32–35",
+   "intro": "<p>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>.</p>",
+   "questions": [
+    {
+     "id": "q32",
+     "n": 32,
+     "n2": 35,
+     "marks": 4,
+     "prompt": "Write the correct letter in boxes 32-35 on your answer sheet.",
+     "options": [
+      "A. determine how chemistry has influenced modern cooking.",
+      "B. provide a scientific basis for traditional cooking methods.",
+      "C. show that long-held beliefs about cooking are wrong.",
+      "D. offer practical advice to those who cook at home."
+     ],
+     "answer": [
+      "C"
+     ],
+     "anchors": [
+      "wrong",
+      "beliefs",
+      "cooking",
+      "long-held"
+     ],
+     "evidence": "p3s2",
+     "conf": "med",
+     "where": "paragraph 3, sentence 2",
+     "matches": [
+      "beliefs",
+      "cooking"
+     ]
+    }
+   ],
+   "type": "multi"
+  },
+  {
+   "id": "g3",
+   "title": "Questions 36–40",
+   "intro": "<p>Complete each sentence with the correct ending, <strong>A-H</strong>, below.</p>",
+   "questions": [
+    {
+     "id": "q36",
+     "n": 36,
+     "prompt": "Colin Osborne explains that",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "E",
+     "anchors": [
+      "Osborne",
+      "explains",
+      "Colin",
+      "meals",
+      "make"
+     ],
+     "evidence": "p1s3",
+     "conf": "high",
+     "where": "paragraph 1, sentence 3",
+     "matches": [
+      "Colin",
+      "Osborne"
+     ]
+    },
+    {
+     "id": "q37",
+     "n": 37,
+     "prompt": "Hervé This's research has led him to the view that",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "C",
+     "anchors": [
+      "This's",
+      "scientific",
+      "research",
+      "Hervé",
+      "cooking"
+     ],
+     "evidence": "p5s1",
+     "conf": "high",
+     "where": "paragraph 5, sentence 1",
+     "matches": [
+      "cooking",
+      "scientific",
+      "research"
+     ]
+    },
+    {
+     "id": "q38",
+     "n": 38,
+     "prompt": "Thanks to the joint effort of Nicholas Kurti and Hervé This,",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "G",
+     "anchors": [
+      "Nicholas Kurti",
+      "Hervé",
+      "study",
+      "culinary",
+      "terminology",
+      "reactions"
+     ],
+     "evidence": "p6s1",
+     "conf": "med",
+     "where": "paragraph 6, sentence 1",
+     "matches": [
+      "Nicholas",
+      "Kurti",
+      "Hervé"
+     ]
+    },
+    {
+     "id": "q39",
+     "n": 39,
+     "prompt": "Food writer Harold McGee says that",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "A",
+     "anchors": [
+      "Harold McGee",
+      "writer",
+      "used",
+      "says",
+      "Food"
+     ],
+     "evidence": "p7s1",
+     "conf": "high",
+     "where": "paragraph 7, sentence 1",
+     "matches": [
+      "Harold",
+      "McGee",
+      "food",
+      "writer"
+     ]
+    },
+    {
+     "id": "q40",
+     "n": 40,
+     "prompt": "Rachel Edwards-Stuart gives an example of a case where",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "D",
+     "anchors": [
+      "Edwards-Stuart",
+      "Rachel",
+      "gives",
+      "example",
+      "scientific"
+     ],
+     "evidence": "p9s2",
+     "conf": "high",
+     "where": "paragraph 9, sentence 2",
+     "matches": [
+      "Rachel",
+      "Edwards-Stuart"
+     ]
+    }
+   ],
+   "list": [
+    {
+     "k": "A",
+     "t": "there used to be a clear division between cooking and science."
+    },
+    {
+     "k": "B",
+     "t": "well-established cooking traditions have come back into fashion."
+    },
+    {
+     "k": "C",
+     "t": "cooking has failed to keep pace with scientific developments."
+    },
+    {
+     "k": "D",
+     "t": "an imaginary invention inspired scientific research."
+    },
+    {
+     "k": "E",
+     "t": "science has helped cooks make meals that would otherwise be unachievable."
+    },
+    {
+     "k": "F",
+     "t": "an award was given to acknowledge work in scientific gastronomy."
+    },
+    {
+     "k": "G",
+     "t": "there is new terminology to describe the study of culinary reactions."
+    },
+    {
+     "k": "H",
+     "t": "the home cook is not able to achieve the same level of innovation as a professional chef."
+    }
+   ],
+   "type": "match"
+  }
+ ]
+}
