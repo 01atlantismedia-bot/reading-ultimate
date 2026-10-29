@@ -1,0 +1,19 @@
+{
+  // One Worker serves the website (dist/) AND the API (/api/*).
+  // Cloudflare builds and deploys it from GitHub on every push.
+  "name": "aphrodite",
+  "main": "worker/src/index.js",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
+
+  // No database_id on purpose: Cloudflare creates the D1 database for you on the first deploy.
+  "d1_databases": [{ "binding": "DB", "database_name": "aphrodite" }],
+
+  // Keeps the variables you add in the dashboard (TEACHER_EMAIL, secrets) when a new deploy runs.
+  "keep_vars": true,
+
+  "vars": {
+    "INACTIVE_DAYS": "5",
+    "PBKDF2_ITERATIONS": "20000"
+  }
+}

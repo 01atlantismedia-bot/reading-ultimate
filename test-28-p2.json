@@ -1,0 +1,575 @@
+{
+ "id": "test-28-p2",
+ "format": "test",
+ "test": 28,
+ "part": 2,
+ "title": "The Hollywood Film Industry",
+ "subtitle": "",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "A",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "This chapter examines the ‘Golden Age’ of the Hollywood film studio system and explores how a particular kind of filmmaking developed during this period in US film history."
+    },
+    {
+     "id": "p1s2",
+     "text": "It also focuses on the two key elements which influenced the emergence of the classic Hollywood studio system: the advent of sound and the business ideal of vertical integration."
+    },
+    {
+     "id": "p1s3",
+     "text": "In addition to its historical interest, inspecting the growth of the studio system may offer clues regarding the kinds of struggles that accompany the growth of any new medium."
+    },
+    {
+     "id": "p1s4",
+     "text": "It might, in fact, be intriguing to examine which changes occurred during the growth of the Hollywood studio, and compare those changes to contemporary struggles in which production companies are trying to define and control emerging industries, such as online film and interactive television."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "B",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "The shift of the industry away from ‘silent’ films began during the late 1920s."
+    },
+    {
+     "id": "p2s2",
+     "text": "Warner Bros.’"
+    },
+    {
+     "id": "p2s3",
+     "text": "1927 film The Jazz Singer was the first to feature synchronized speech, and with it came a period of turmoil for the industry."
+    },
+    {
+     "id": "p2s4",
+     "text": "Studios now had proof that ‘talkie’ films would make them money, but the financial investment this kind of filmmaking would require, from new camera equipment to new projection facilities, made the studios hesitant to invest at first."
+    },
+    {
+     "id": "p2s5",
+     "text": "In the end, the power of cinematic sound to both move audiences and enhance the story persuaded studios that talkies were worth investing in."
+    },
+    {
+     "id": "p2s6",
+     "text": "Overall, the use of sound in film was well-received by audiences, but there were still many technical factors to consider."
+    },
+    {
+     "id": "p2s7",
+     "text": "Although full integration of sound into movies was complete by 1930, it would take somewhat longer for them to regain their stylistic elegance and dexterity."
+    },
+    {
+     "id": "p2s8",
+     "text": "The camera now had to be encased in a big, clumsy, unmoveable soundproof box."
+    },
+    {
+     "id": "p2s9",
+     "text": "In addition, actors struggled, having to direct their speech to awkwardly-hidden microphones in huge plants, telephones or even costumes."
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "C",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "Vertical integration is the other key component in the rise of the Hollywood studio system."
+    },
+    {
+     "id": "p3s2",
+     "text": "The major studios realized they could increase their profits by handling each stage of a film’s life: production (making the film), distribution (getting the film out to people) and exhibition (owning the theaters in major cities where films were shown first)."
+    },
+    {
+     "id": "p3s3",
+     "text": "Five studios, ‘The Big Five’, worked to achieve vertical integration through the late 1940s, owning vast real estate on which to construct elaborate sets."
+    },
+    {
+     "id": "p3s4",
+     "text": "In addition, these studios set the exact terms of films’ release dates and patterns."
+    },
+    {
+     "id": "p3s5",
+     "text": "Warner Bros., Paramount, 20th Century Fox, MGM and RKO formed this exclusive club."
+    },
+    {
+     "id": "p3s6",
+     "text": "‘The Little Three’ studios – Universal, Columbia and United Artists – also made pictures, but each lacked one of the crucial elements of vertical integration."
+    },
+    {
+     "id": "p3s7",
+     "text": "Together these eight companies operated as a mature oligopoly, essentially running the entire market."
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "D",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "During the Golden Age, the studios were remarkably consistent and stable enterprises, due in large part to long-term management heads – the infamous ‘movie moguls’ who ruled their kingdoms with iron fists."
+    },
+    {
+     "id": "p4s2",
+     "text": "At MGM, Warner Bros. and Columbia, the same men ran their studios for decades."
+    },
+    {
+     "id": "p4s3",
+     "text": "The rise of the studio system also hinges on the treatment of stars, who were constructed and exploited to suit a studio’s image and schedule."
+    },
+    {
+     "id": "p4s4",
+     "text": "Actors were bound up in seven-year contracts to a single studio, and the studio boss generally held all the options."
+    },
+    {
+     "id": "p4s5",
+     "text": "Stars could be loaned out to other production companies at any time."
+    },
+    {
+     "id": "p4s6",
+     "text": "Studio bosses could also force bad roles on actors, and manipulate every single detail of stars’ images with their mammoth in-house publicity departments."
+    },
+    {
+     "id": "p4s7",
+     "text": "Some have compared the Hollywood studio system to a factory, and it is useful to remember that studios were out to make money first and art second."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "E",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "On the other hand, studios also had to cultivate flexibility, in addition to consistent factory output."
+    },
+    {
+     "id": "p5s2",
+     "text": "Studio heads realized that they couldn’t make virtually the same film over and over again with the same cast of stars and still expect to keep turning a profit."
+    },
+    {
+     "id": "p5s3",
+     "text": "They also had to create product differentiation."
+    },
+    {
+     "id": "p5s4",
+     "text": "Examining how each production company tried to differentiate itself has led to loose characterizations of individual studios’ styles."
+    },
+    {
+     "id": "p5s5",
+     "text": "MGM tended to put out a lot of all-star productions while Paramount excelled in comedy and Warner Bros. developed a reputation for gritty social realism."
+    },
+    {
+     "id": "p5s6",
+     "text": "20th Century Fox forged the musical and a great deal of prestige biographies, while Universal specialized in classic horror movies."
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "label": "F",
+   "sentences": [
+    {
+     "id": "p6s1",
+     "text": "In 1948, struggling independent movie producers and exhibitors finally triumphed in their battle against the big studios’ monopolistic behavior."
+    },
+    {
+     "id": "p6s2",
+     "text": "In the United States versus Paramount federal decree of that year, the studios were ordered to give up their theaters in what is commonly referred to as ‘divestiture’ – opening the market to smaller producers."
+    },
+    {
+     "id": "p6s3",
+     "text": "This, coupled with the advent of television in the 1950s, seriously compromised the studio system’s influence and profits."
+    },
+    {
+     "id": "p6s4",
+     "text": "Hence, 1930 and 1948 are generally considered bookends to Hollywood’s Golden Age."
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 14–19",
+   "type": "heading",
+   "intro": "<p>Reading Passage 2 has six paragraphs, <strong>A–F</strong>.</p><p>Choose the correct heading for each paragraph from the list of headings below. Write the correct number, <strong>i–viii</strong>.</p>",
+   "list": [
+    {
+     "k": "i",
+     "t": "The power within each studio"
+    },
+    {
+     "k": "ii",
+     "t": "The movie industry adapts to innovation"
+    },
+    {
+     "k": "iii",
+     "t": "Contrasts between cinema and other media of the time"
+    },
+    {
+     "k": "iv",
+     "t": "The value of studying Hollywood’s Golden Age"
+    },
+    {
+     "k": "v",
+     "t": "Distinguishing themselves from the rest of the market"
+    },
+    {
+     "k": "vi",
+     "t": "A double attack on film studios’ power"
+    },
+    {
+     "k": "vii",
+     "t": "Gaining control of the industry"
+    },
+    {
+     "k": "viii",
+     "t": "The top movies of Hollywood’s Golden Age"
+    }
+   ],
+   "questions": [
+    {
+     "id": "q14",
+     "n": 14,
+     "prompt": "Paragraph A",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "iv",
+     "anchors": [
+      "value",
+      "studying",
+      "Hollywood’s",
+      "Golden"
+     ],
+     "evidence": "p1s1",
+     "conf": "med",
+     "where": "paragraph A, sentence 1",
+     "matches": [
+      "Golden"
+     ]
+    },
+    {
+     "id": "q15",
+     "n": 15,
+     "prompt": "Paragraph B",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "ii",
+     "anchors": [
+      "movie",
+      "industry",
+      "adapts",
+      "innovation"
+     ],
+     "evidence": "p2s1",
+     "conf": "med",
+     "where": "paragraph B, sentence 1",
+     "matches": [
+      "industry"
+     ]
+    },
+    {
+     "id": "q16",
+     "n": 16,
+     "prompt": "Paragraph C",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "vii",
+     "anchors": [
+      "Gaining",
+      "control",
+      "industry"
+     ],
+     "evidence": null,
+     "conf": "med"
+    },
+    {
+     "id": "q17",
+     "n": 17,
+     "prompt": "Paragraph D",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "i",
+     "anchors": [
+      "power",
+      "within",
+      "studio"
+     ],
+     "evidence": "p4s1",
+     "conf": "med",
+     "where": "paragraph D, sentence 1",
+     "matches": [
+      "studios"
+     ]
+    },
+    {
+     "id": "q18",
+     "n": 18,
+     "prompt": "Paragraph E",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "v",
+     "anchors": [
+      "Distinguishing",
+      "themselves",
+      "rest",
+      "market"
+     ],
+     "evidence": null,
+     "conf": "med"
+    },
+    {
+     "id": "q19",
+     "n": 19,
+     "prompt": "Paragraph F",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "vi",
+     "anchors": [
+      "double",
+      "attack",
+      "film",
+      "studios’"
+     ],
+     "evidence": "p6s1",
+     "conf": "med",
+     "where": "paragraph F, sentence 1",
+     "matches": [
+      "studios’"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Questions 20–23",
+   "type": "tfng",
+   "intro": "<p>Do the following statements agree with the information given in Reading Passage 2?</p><p>Choose <strong>TRUE</strong>, <strong>FALSE</strong>, or <strong>NOT GIVEN</strong>.</p>",
+   "questions": [
+    {
+     "id": "q20",
+     "n": 20,
+     "prompt": "After The Jazz Singer came out, other studios immediately began making movies with synchronized sound.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "FALSE",
+     "anchors": [
+      "Jazz Singer",
+      "synchronized",
+      "making",
+      "began",
+      "came"
+     ],
+     "evidence": "p2s3",
+     "conf": "high",
+     "where": "paragraph B, sentence 3",
+     "matches": [
+      "Jazz",
+      "Singer",
+      "synchronized",
+      "came"
+     ]
+    },
+    {
+     "id": "q21",
+     "n": 21,
+     "prompt": "There were some drawbacks to recording movie actors’ voices in the early 1930s.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "TRUE",
+     "anchors": [
+      "some",
+      "1930s",
+      "movie",
+      "actors’",
+      "drawbacks"
+     ],
+     "evidence": "p2s7",
+     "conf": "low",
+     "where": "paragraph B, sentence 7",
+     "matches": [
+      "1930"
+     ]
+    },
+    {
+     "id": "q22",
+     "n": 22,
+     "prompt": "There was intense competition between actors for contracts with the leading studios.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "NOT GIVEN",
+     "anchors": [
+      "contracts",
+      "actors",
+      "studios",
+      "competition"
+     ],
+     "evidence": "p4s4",
+     "conf": "low",
+     "where": "paragraph D, sentence 4",
+     "matches": [
+      "Actors",
+      "contracts",
+      "studio",
+      "studio"
+     ]
+    },
+    {
+     "id": "q23",
+     "n": 23,
+     "prompt": "Studios had total control over how their actors were perceived by the public.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "TRUE",
+     "anchors": [
+      "control",
+      "actors",
+      "Studios",
+      "perceived"
+     ],
+     "evidence": "p1s4",
+     "conf": "med",
+     "where": "paragraph A, sentence 4",
+     "matches": [
+      "studio",
+      "control"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Questions 24–26",
+   "intro": "<p>Complete the summary below.</p><p>Choose <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p>",
+   "type": "completion",
+   "questions": [
+    {
+     "id": "q24",
+     "n": 24,
+     "prompt": "Using a system known as _____, the biggest studios not only made movies, but handled their distribution and then finally showed them in their own theatres.",
+     "answer": "vertical integration",
+     "anchors": [
+      "not",
+      "only",
+      "but",
+      "distribution",
+      "handled",
+      "finally"
+     ],
+     "evidence": "p1s2",
+     "conf": "high",
+     "where": "paragraph A, sentence 2",
+     "matches": []
+    },
+    {
+     "id": "q25",
+     "n": 25,
+     "prompt": "These studios were often run by autocratic bosses – men known as _____, who often remained at the head of organisations for decades.",
+     "answer": "movie moguls",
+     "anchors": [
+      "decades",
+      "bosses",
+      "head",
+      "studios"
+     ],
+     "evidence": "p4s1",
+     "conf": "high",
+     "where": "paragraph D, sentence 1",
+     "matches": [
+      "studios",
+      "heads"
+     ]
+    },
+    {
+     "id": "q26",
+     "n": 26,
+     "prompt": "However, the domination of the industry by the leading studios came to an end in 1948, when they were forced to open the market to smaller producers – a process known as _____.",
+     "answer": "divestiture",
+     "anchors": [
+      "1948",
+      "However",
+      "smaller",
+      "open",
+      "came",
+      "producers"
+     ],
+     "evidence": "p6s2",
+     "conf": "high",
+     "where": "paragraph F, sentence 2",
+     "matches": [
+      "opening",
+      "smaller",
+      "producers"
+     ]
+    }
+   ],
+   "template": "<p class=\"ct\"><strong>THE HOLLYWOOD STUDIOS</strong></p><p>Throughout its Golden Age, the Hollywood movie industry was controlled by a handful of studios. Using a system known as {{24}}, the biggest studios not only made movies, but handled their distribution and then finally showed them in their own theatres. These studios were often run by autocratic bosses – men known as {{25}}, who often remained at the head of organisations for decades. However, the domination of the industry by the leading studios came to an end in 1948, when they were forced to open the market to smaller producers – a process known as {{26}}.</p>"
+  }
+ ]
+}

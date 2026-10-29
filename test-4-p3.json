@@ -1,0 +1,541 @@
+{
+ "id": "test-4-p3",
+ "format": "test",
+ "test": 4,
+ "part": 3,
+ "title": "Architecture in Britain",
+ "subtitle": "",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "Architecture is about evolution, not revolution."
+    },
+    {
+     "id": "p1s2",
+     "text": "It used to be thought that once the Romans pulled out of Britain in the fifth century, their elegant villas, carefully planned towns and engineering marvels like Hadrian's Wall simply fell into decay, as British culture was plunged into the Dark Ages."
+    },
+    {
+     "id": "p1s3",
+     "text": "However, the truth is not as simple as that."
+    },
+    {
+     "id": "p1s4",
+     "text": "Romano-British culture persisted long after the Roman withdrawal."
+    },
+    {
+     "id": "p1s5",
+     "text": "And the Anglo-Saxons already had a sophisticated building style of their own, although little survives to bear witness to their achievements as the vast majority of buildings were made of wood."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "Nevertheless, it was the time period between the Norman invasion of 1066 and the late 15th century which marked the rarest flowering of British building."
+    },
+    {
+     "id": "p2s2",
+     "text": "And this is all the more remarkable because the underlying ethos of medieval architecture was 'fitness for purpose'."
+    },
+    {
+     "id": "p2s3",
+     "text": "The great cathedrals and parish churches that lifted up their towers to heaven were not merely acts of devotion in stone; they were fiercely functional buildings."
+    },
+    {
+     "id": "p2s4",
+     "text": "The battlements and turrets of castles were much more than ornament."
+    },
+    {
+     "id": "p2s5",
+     "text": "And the rambling manor houses of the later Middle Ages were primarily homes, their owners achieving respect and maintaining status by their hospitality rather than the grandeur of their buildings."
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "By contrast, domestic buildings of the 16th century were used to display status and wealth."
+    },
+    {
+     "id": "p3s2",
+     "text": "A greater sense of security led to more outward-looking buildings, as opposed to the medieval arrangement where the need for defence created houses that faced inward onto a courtyard or series of courtyards."
+    },
+    {
+     "id": "p3s3",
+     "text": "This allowed for much more in the way of exterior ornament."
+    },
+    {
+     "id": "p3s4",
+     "text": "The rooms themselves tended to be bigger and lighter – as an expensive commodity, the use of great expanses of glass was in itself a statement of wealth."
+    },
+    {
+     "id": "p3s5",
+     "text": "There was also a general move towards balanced and symmetrical exteriors with central entrances."
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "In spite of this building boom, the Renaissance was generally slow to arrive in England, largely because Queen Elizabeth I's troublesome relations with Europe made the free exchange of ideas difficult."
+    },
+    {
+     "id": "p4s2",
+     "text": "Craftsmen and pattern books did come over from Europe, but, by and large, England's relative isolation from the European cultural mainstream led to a national style which was a bizarre though attractive mixture of gothic and classical styles."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "With the exception of Inigo Jones, whose confident handling of classical detail and proportion set him apart from others of the period, early 17th century architects designed very ornate buildings, with the sort of details described at the time as 'a heap of craziness of decorations... very disgusting to see'."
+    },
+    {
+     "id": "p5s2",
+     "text": "But during the 1640s and '50s, the Civil War and its aftermath sent many gentlemen and nobles abroad, either to escape the fighting or, when the war was lost, to follow King Charles II into exile."
+    },
+    {
+     "id": "p5s3",
+     "text": "There they came into contact with French, Dutch and Italian architecture, and with Charles's restoration to the throne in 1660 there was a flurry of building activity as royalists reclaimed their property and built themselves houses reflecting the latest European trends."
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p6s1",
+     "text": "As the century wore on, this resolved itself into a passion for the grandeur which King Louis XIV of France had turned into an instrument of statecraft at Versailles."
+    },
+    {
+     "id": "p6s2",
+     "text": "Geometrical and symmetrical planning meant that a great lord could sit in his dining chamber, at the physical as well as the metaphorical centre of his world, with suites of rooms radiating out in straight lines to either side."
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p7s1",
+     "text": "Nineteenth-century architecture, such as the huge glass-and-iron Crystal Palace building designed by Joseph Paxton to house the Great Exhibition of 1851, embraced new industrial processes."
+    },
+    {
+     "id": "p7s2",
+     "text": "But it wasn't long before this confidence in progress came to be regarded with suspicion."
+    },
+    {
+     "id": "p7s3",
+     "text": "Mass production resulted in buildings and furnishings that were too perfect, as the individual craftsmen no longer had a major role in their creation."
+    },
+    {
+     "id": "p7s4",
+     "text": "Railing against the dehumanising effects of industrialisation, reformers like John Ruskin and William Morris made a concerted effort to return to hand-crafted, pre-industrial manufacturing techniques."
+    },
+    {
+     "id": "p7s5",
+     "text": "Morris's influence grew from the production of furniture and textiles, but by the 1880s a generation of principled young architects was following his call for manual construction."
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p8s1",
+     "text": "The most important trends in early 20th century architecture simply passed Britain by."
+    },
+    {
+     "id": "p8s2",
+     "text": "Whilst Gropius was working on cold, hard expanses of glass, and Le Corbusier was experimenting with the use of reinforced concrete frames, England had staid establishment architects like Edwin Lutyens producing Neo-Georgian and Renaissance country houses for an outmoded landed class."
+    },
+    {
+     "id": "p8s3",
+     "text": "Only a handful of Modern Movement buildings of any real merit were produced here during the 1920s and '30s, and most of these were the work of foreign architects, such as Serge Chermayeff, Berthold Lubetkin and Erno Goldfinger, who had settled in this country."
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p9s1",
+     "text": "After the Second World War the situation began to change."
+    },
+    {
+     "id": "p9s2",
+     "text": "The Modern Movement's belief in progress and the future struck a chord with the mood of post-war Britain, and, as reconstruction began in 1945, there was a desperate need for cheap housing which could be produced quickly."
+    },
+    {
+     "id": "p9s3",
+     "text": "The use of prefabricated elements, metal frames, concrete cladding and the absence of decoration – all of which had been feared by Modernists abroad and viewed with suspicion by the British – were now adopted for housing developments and schools."
+    },
+    {
+     "id": "p9s4",
+     "text": "Local government authorities, charged with the task of rebuilding city centres, became important patrons of architecture."
+    },
+    {
+     "id": "p9s5",
+     "text": "This represented a shift away from the private individuals who had dominated the architectural scene for centuries."
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 27–31",
+   "intro": "<p>Choose the correct letter, <strong>A, B, C</strong> or <strong>D</strong>.</p>",
+   "questions": [
+    {
+     "id": "q27",
+     "n": 27,
+     "prompt": "After the Romans left Britain,",
+     "options": [
+      "A. their achievements were neglected.",
+      "B. their cultural legacy endured.",
+      "C. there was an abrupt cultural change.",
+      "D. Anglo-Saxon building techniques declined."
+     ],
+     "answer": "B",
+     "anchors": [
+      "Romans",
+      "Britain",
+      "cultural",
+      "endured",
+      "legacy",
+      "left"
+     ],
+     "evidence": "p1s2",
+     "conf": "high",
+     "where": "paragraph 1, sentence 2",
+     "matches": [
+      "Romans",
+      "Britain"
+     ]
+    },
+    {
+     "id": "q28",
+     "n": 28,
+     "prompt": "Medieval architecture aspired above all to be",
+     "options": [
+      "A. immense.",
+      "B. useful.",
+      "C. decorative.",
+      "D. durable."
+     ],
+     "answer": "B",
+     "anchors": [
+      "all",
+      "Medieval",
+      "architecture",
+      "aspired",
+      "useful"
+     ],
+     "evidence": "p2s2",
+     "conf": "med",
+     "where": "paragraph 2, sentence 2",
+     "matches": [
+      "all",
+      "medieval",
+      "architecture"
+     ]
+    },
+    {
+     "id": "q29",
+     "n": 29,
+     "prompt": "Which of the following architectural features generally characterised 16th century houses?",
+     "options": [
+      "A. They faced inwards.",
+      "B. They had plain exteriors.",
+      "C. They had small windows.",
+      "D. They displayed symmetry in their architecture."
+     ],
+     "answer": "D",
+     "anchors": [
+      "architectural",
+      "displayed",
+      "16th",
+      "following"
+     ],
+     "evidence": "p3s1",
+     "conf": "med",
+     "where": "paragraph 3, sentence 1",
+     "matches": [
+      "16th",
+      "display"
+     ]
+    },
+    {
+     "id": "q30",
+     "n": 30,
+     "prompt": "How did 17th century British architecture come to be influenced by styles in continental Europe?",
+     "options": [
+      "A. Fugitives brought ideas from continental Europe back to Britain.",
+      "B. British craftsmen went to work in other countries.",
+      "C. The monarch encouraged cultural contacts with other countries.",
+      "D. Buildings were restored by architects from continental Europe."
+     ],
+     "answer": "A",
+     "anchors": [
+      "British",
+      "Europe",
+      "Fugitives",
+      "Britain",
+      "styles",
+      "ideas"
+     ],
+     "evidence": "p4s2",
+     "conf": "med",
+     "where": "paragraph 4, sentence 2",
+     "matches": [
+      "Europe",
+      "styles"
+     ]
+    },
+    {
+     "id": "q31",
+     "n": 31,
+     "prompt": "What drove building design immediately after the Second World War?",
+     "options": [
+      "A. conservatism",
+      "B. a housing shortage",
+      "C. foreign architecture",
+      "D. wealthy patronage"
+     ],
+     "answer": "B",
+     "anchors": [
+      "Second World War",
+      "design",
+      "building",
+      "housing",
+      "immediately"
+     ],
+     "evidence": "p9s1",
+     "conf": "high",
+     "where": "paragraph 9, sentence 1",
+     "matches": [
+      "Second",
+      "World",
+      "War"
+     ]
+    }
+   ],
+   "type": "mcq"
+  },
+  {
+   "id": "g2",
+   "title": "Questions 32–40",
+   "intro": "<p>Complete the sentences below.</p><p>Choose <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p>",
+   "questions": [
+    {
+     "id": "q32",
+     "n": 32,
+     "prompt": "Because most Anglo-Saxon buildings were _____ few of them have survived.",
+     "answer": "made of wood",
+     "anchors": [
+      "Anglo-Saxon",
+      "most",
+      "few",
+      "survived",
+      "Because",
+      "buildings"
+     ],
+     "evidence": "p1s5",
+     "conf": "high",
+     "where": "paragraph 1, sentence 5",
+     "matches": [
+      "Anglo-Saxons",
+      "survives",
+      "buildings"
+     ]
+    },
+    {
+     "id": "q33",
+     "n": 33,
+     "prompt": "The owners of medieval manor houses in Britain earned their reputation through their _____ .",
+     "answer": "hospitality",
+     "anchors": [
+      "Britain",
+      "owners",
+      "manor",
+      "medieval",
+      "houses"
+     ],
+     "evidence": "p2s5",
+     "conf": "high",
+     "where": "paragraph 2, sentence 5",
+     "matches": [
+      "manor",
+      "houses",
+      "owners"
+     ]
+    },
+    {
+     "id": "q34",
+     "n": 34,
+     "prompt": "Sixteenth-century houses were designed to provide evidence of status and _____ .",
+     "answer": "wealth",
+     "anchors": [
+      "designed",
+      "status",
+      "houses",
+      "Sixteenth-century"
+     ],
+     "evidence": "p3s1",
+     "conf": "high",
+     "where": "paragraph 3, sentence 1",
+     "matches": [
+      "status"
+     ]
+    },
+    {
+     "id": "q35",
+     "n": 35,
+     "prompt": "In the 16th century, the use of glass became fashionable, even though it was an _____ .",
+     "answer": "expensive commodity",
+     "anchors": [
+      "though",
+      "became",
+      "16th",
+      "glass",
+      "century"
+     ],
+     "evidence": "p3s4",
+     "conf": "high",
+     "where": "paragraph 3, sentence 4",
+     "matches": [
+      "glass"
+     ]
+    },
+    {
+     "id": "q36",
+     "n": 36,
+     "prompt": "Inigo Jones was particularly skilful in designing buildings in the _____ style.",
+     "answer": "classical",
+     "anchors": [
+      "Jones",
+      "Inigo",
+      "designing",
+      "style",
+      "buildings"
+     ],
+     "evidence": "p5s1",
+     "conf": "high",
+     "where": "paragraph 5, sentence 1",
+     "matches": [
+      "Inigo",
+      "Jones",
+      "designed",
+      "buildings"
+     ]
+    },
+    {
+     "id": "q37",
+     "n": 37,
+     "prompt": "Although William Morris designed _____ his emphasis on hand-crafting also influenced architects.",
+     "answer": "furniture and textiles",
+     "anchors": [
+      "William Morris",
+      "Although",
+      "hand-crafting",
+      "designed",
+      "architects",
+      "influenced"
+     ],
+     "evidence": "p7s5",
+     "conf": "high",
+     "where": "paragraph 7, sentence 5",
+     "matches": [
+      "architects"
+     ]
+    },
+    {
+     "id": "q38",
+     "n": 38,
+     "prompt": "In the early 20th century, British architects like _____ were producing conservative designs.",
+     "answer": "Edwin Lutyens",
+     "anchors": [
+      "British",
+      "20th",
+      "designs",
+      "early",
+      "producing"
+     ],
+     "evidence": "p8s2",
+     "conf": "high",
+     "where": "paragraph 8, sentence 2",
+     "matches": [
+      "producing"
+     ]
+    },
+    {
+     "id": "q39",
+     "n": 39,
+     "prompt": "Before the Second World War, Modern Movement buildings of quality in Britain were mainly designed by _____ .",
+     "answer": "foreign architects",
+     "anchors": [
+      "Second World War",
+      "Modern Movement",
+      "Britain",
+      "mainly",
+      "designed",
+      "buildings"
+     ],
+     "evidence": "p8s3",
+     "conf": "high",
+     "where": "paragraph 8, sentence 3",
+     "matches": [
+      "Modern",
+      "Movement",
+      "buildings"
+     ]
+    },
+    {
+     "id": "q40",
+     "n": 40,
+     "prompt": "After the Second World War, much architecture in Britain was commissioned by _____ rather than private individuals.",
+     "answer": "local government authorities",
+     "anchors": [
+      "Second World War",
+      "Britain",
+      "rather",
+      "private",
+      "individuals",
+      "architecture"
+     ],
+     "evidence": "p9s4",
+     "conf": "high",
+     "where": "paragraph 9, sentence 4",
+     "matches": [
+      "architecture"
+     ]
+    }
+   ],
+   "template": "<p><strong>32</strong>  Because most Anglo-Saxon buildings were {{32}} few of them have survived.</p><p><strong>33</strong>  The owners of medieval manor houses in Britain earned their reputation through their {{33}} .</p><p><strong>34</strong>  Sixteenth-century houses were designed to provide evidence of status and {{34}} .</p><p><strong>35</strong>  In the 16th century, the use of glass became fashionable, even though it was an {{35}} .</p><p><strong>36</strong>  Inigo Jones was particularly skilful in designing buildings in the {{36}} style.</p><p><strong>37</strong>  Although William Morris designed {{37}} his emphasis on hand-crafting also influenced architects.</p><p><strong>38</strong>  In the early 20th century, British architects like {{38}} were producing conservative designs.</p><p><strong>39</strong>  Before the Second World War, Modern Movement buildings of quality in Britain were mainly designed by {{39}} .</p><p><strong>40</strong>  After the Second World War, much architecture in Britain was commissioned by {{40}} rather than private individuals.</p>",
+   "type": "completion"
+  }
+ ]
+}

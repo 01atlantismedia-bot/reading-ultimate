@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local development only. Never commit .dev.vars.
+INVITE_CODE=letmein-dev
+PASSWORD_PEPPER=dev-only-long-random-string-change-me
+TEACHER_EMAIL=you@example.com
+# Optional, turns on the Translate button locally:
+# ANTHROPIC_API_KEY=sk-ant-...

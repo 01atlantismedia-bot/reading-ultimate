@@ -1,0 +1,533 @@
+{
+ "id": "test-28-p1",
+ "format": "test",
+ "test": 28,
+ "part": 1,
+ "title": "The Phoenicians: an almost forgotten people",
+ "subtitle": "",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "The Phoenicians inhabited the region of modern Lebanon and Syria from about 3000 BC."
+    },
+    {
+     "id": "p1s2",
+     "text": "They became the greatest traders of the pre-classical world, and were the first people to establish a large colonial network."
+    },
+    {
+     "id": "p1s3",
+     "text": "Both of these activities were based on seafaring, an ability the Phoenicians developed from the example of their maritime predecessors, the Minoans of Crete."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "An Egyptian narrative of about 1080 BC, the Story of Wen-Amen, provides an insight into the scale of their trading activity."
+    },
+    {
+     "id": "p2s2",
+     "text": "One of the characters is Wereket-El, a Phoenician merchant living at Tanis in Egypt’s Nile delta."
+    },
+    {
+     "id": "p2s3",
+     "text": "As many as 50 ships carry out his business, plying back and forth between the Nile and the Phoenician port of Sidon."
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "The most prosperous period for Phoenicia was the 10th century BC, when the surrounding region was stable."
+    },
+    {
+     "id": "p3s2",
+     "text": "Hiram, the king of the Phoenician city of Tyre, was an ally and business partner of Solomon, King of Israel."
+    },
+    {
+     "id": "p3s3",
+     "text": "For Solomon’s temple in Jerusalem, Hiram provided craftsmen with particular skills that were needed for this major construction project."
+    },
+    {
+     "id": "p3s4",
+     "text": "He also supplied materials – particularly timber, including cedar from the forests of Lebanon."
+    },
+    {
+     "id": "p3s5",
+     "text": "And the two kings went into trade in partnership."
+    },
+    {
+     "id": "p3s6",
+     "text": "They sent out Phoenician vessels on long expeditions (of up to three years for the return trip) to bring back gold, sandalwood, ivory, monkeys and peacocks from Ophir."
+    },
+    {
+     "id": "p3s7",
+     "text": "This is an unidentified place, probably on the east coast of Africa or the west coast of India."
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "Phoenicia was famous for its luxury goods."
+    },
+    {
+     "id": "p4s2",
+     "text": "The cedar wood was not only exported as top-quality timber for architecture and shipbuilding."
+    },
+    {
+     "id": "p4s3",
+     "text": "It was also carved by the Phoenicians, and the same skill was adapted to even more precious work in ivory."
+    },
+    {
+     "id": "p4s4",
+     "text": "The rare and expensive dye for cloth, Tyrian purple, complemented another famous local product, fine linen."
+    },
+    {
+     "id": "p4s5",
+     "text": "The metalworkers of the region, particularly those working in gold, were famous."
+    },
+    {
+     "id": "p4s6",
+     "text": "Tyre and Sidon were also known for their glass."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "These were the main products which the Phoenicians exported."
+    },
+    {
+     "id": "p5s2",
+     "text": "In addition, as traders and middlemen, they took a commission on a much greater range of precious goods that they transported from elsewhere."
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p6s1",
+     "text": "The extensive trade of Phoenicia required much book-keeping and correspondence, and it was in the field of writing that the Phoenicians made their most lasting contribution to world history."
+    },
+    {
+     "id": "p6s2",
+     "text": "The scripts in use in the world up to the second millennium BC (in Egypt, Mesopotamia or China) all required the writer to learn a large number of separate characters – each of them expressing either a whole word or an element of its meaning."
+    },
+    {
+     "id": "p6s3",
+     "text": "By contrast, the Phoenicians, in about 1500 BC, developed an entirely new approach to writing."
+    },
+    {
+     "id": "p6s4",
+     "text": "The marks made (with a pointed tool called a stylus, on damp clay) now attempted to capture the sound of a word."
+    },
+    {
+     "id": "p6s5",
+     "text": "This required an alphabet of individual letters."
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p7s1",
+     "text": "The trading and seafaring skills of the Phoenicians resulted in a network of colonies, spreading westwards through the Mediterranean."
+    },
+    {
+     "id": "p7s2",
+     "text": "The first was probably Citium, in Cyprus, established in the 9th century BC."
+    },
+    {
+     "id": "p7s3",
+     "text": "But the main expansion came from the 8th century BC onwards, when pressure from Assyria to the east disrupted the patterns of trade on the Phoenician coast."
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p8s1",
+     "text": "Trading colonies were developed on the string of islands in the centre of the Mediterranean – Crete, Sicily, Malta, Sardinia, Ibiza – and also on the coast of north Africa."
+    },
+    {
+     "id": "p8s2",
+     "text": "The African colonies clustered in particular around the great promontory which, with Sicily opposite, forms the narrowest channel on the main Mediterranean sea route."
+    },
+    {
+     "id": "p8s3",
+     "text": "This is the site of Carthage."
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p9s1",
+     "text": "Carthage was the largest of the towns founded by the Phoenicians on the north African coast, and it rapidly assumed a leading position among the neighbouring colonies."
+    },
+    {
+     "id": "p9s2",
+     "text": "The traditional date of its founding is 814 BC, but archaeological evidence suggests that it was probably settled a little over a century later."
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p10s1",
+     "text": "The subsequent spread and growth of Phoenician colonies in the western Mediterranean, and even out to the Atlantic coasts of Africa and Spain, was as much the achievement of Carthage as of the original Phoenician trading cities such as Tyre and Sidon."
+    },
+    {
+     "id": "p10s2",
+     "text": "But no doubt links were maintained with the homeland, and new colonists continued to travel west."
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p11s1",
+     "text": "From the 8th century BC, many of the coastal cities of Phoenicia came under the control of a succession of imperial powers, each of them defeated and replaced in the region by the next: first the Assyrians, then the Babylonians, Persians and Macedonian Greeks."
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p12s1",
+     "text": "In 64 BC, the area of Phoenicia became part of the Roman province of Syria."
+    },
+    {
+     "id": "p12s2",
+     "text": "The Phoenicians as an identifiable people then faded from history, merging into the populations of modern Lebanon and northern Syria."
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 1–8",
+   "type": "completion",
+   "intro": "<p>Complete the sentences below.</p><p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p class=\"ct\"><strong>The Phoenicians’ trading activities</strong></p>",
+   "questions": [
+    {
+     "id": "q1",
+     "n": 1,
+     "prompt": "The Phoenicians’ skill at _____ helped them to trade.",
+     "answer": "seafaring",
+     "anchors": [
+      "Phoenicians’",
+      "trade",
+      "skill",
+      "helped"
+     ],
+     "evidence": "p7s1",
+     "conf": "high",
+     "where": "paragraph 7, sentence 1",
+     "matches": [
+      "skills",
+      "Phoenicians"
+     ]
+    },
+    {
+     "id": "q2",
+     "n": 2,
+     "prompt": "In an ancient story, a _____ from Phoenicia, who lived in Egypt, owned 50 ships.",
+     "answer": "merchant",
+     "anchors": [
+      "Phoenicia",
+      "Egypt",
+      "50",
+      "ships",
+      "story",
+      "ancient"
+     ],
+     "evidence": "p2s2",
+     "conf": "high",
+     "where": "paragraph 2, sentence 2",
+     "matches": []
+    },
+    {
+     "id": "q3",
+     "n": 3,
+     "prompt": "A king of Israel built a _____ using supplies from Phoenicia.",
+     "answer": "temple",
+     "anchors": [
+      "Israel",
+      "Phoenicia",
+      "supplies",
+      "king",
+      "built",
+      "using"
+     ],
+     "evidence": "p3s3",
+     "conf": "high",
+     "where": "paragraph 3, sentence 3",
+     "matches": []
+    },
+    {
+     "id": "q4",
+     "n": 4,
+     "prompt": "Phoenicia supplied Solomon with skilled _____.",
+     "answer": "craftsmen",
+     "anchors": [
+      "Solomon",
+      "supplied",
+      "skilled",
+      "Phoenicia"
+     ],
+     "evidence": "p3s3",
+     "conf": "high",
+     "where": "paragraph 3, sentence 3",
+     "matches": [
+      "skills"
+     ]
+    },
+    {
+     "id": "q5",
+     "n": 5,
+     "prompt": "The main material that Phoenicia sent to Israel was _____.",
+     "answer": "timber",
+     "anchors": [
+      "Phoenicia",
+      "Israel",
+      "material",
+      "sent",
+      "main"
+     ],
+     "evidence": "p3s4",
+     "conf": "high",
+     "where": "paragraph 3, sentence 4",
+     "matches": [
+      "materials"
+     ]
+    },
+    {
+     "id": "q6",
+     "n": 6,
+     "prompt": "The kings of Phoenicia and Israel formed a business _____ in order to carry out trade.",
+     "answer": "partnership",
+     "anchors": [
+      "Phoenicia",
+      "Israel",
+      "formed",
+      "carry",
+      "business",
+      "kings"
+     ],
+     "evidence": "p3s5",
+     "conf": "high",
+     "where": "paragraph 3, sentence 5",
+     "matches": [
+      "kings"
+     ]
+    },
+    {
+     "id": "q7",
+     "n": 7,
+     "prompt": "Phoenicians carved _____, as well as cedar.",
+     "answer": "ivory",
+     "anchors": [
+      "carved",
+      "cedar",
+      "Phoenicians",
+      "well"
+     ],
+     "evidence": "p4s3",
+     "conf": "high",
+     "where": "paragraph 4, sentence 3",
+     "matches": [
+      "carved",
+      "Phoenicians"
+     ]
+    },
+    {
+     "id": "q8",
+     "n": 8,
+     "prompt": "The Phoenicians also earned a _____ for shipping goods.",
+     "answer": "commission",
+     "anchors": [
+      "Phoenicians",
+      "goods",
+      "shipping",
+      "earned"
+     ],
+     "evidence": "p5s2",
+     "conf": "high",
+     "where": "paragraph 5, sentence 2",
+     "matches": [
+      "goods"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Questions 9–13",
+   "type": "tfng",
+   "intro": "<p>Do the following statements agree with the information given in Reading Passage 1?</p><p>Choose <strong>TRUE</strong>, <strong>FALSE</strong>, or <strong>NOT GIVEN</strong>.</p>",
+   "questions": [
+    {
+     "id": "q9",
+     "n": 9,
+     "prompt": "Problems with Assyria led to the establishment of a number of Phoenician colonies.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "TRUE",
+     "anchors": [
+      "Assyria",
+      "Phoenician",
+      "number",
+      "colonies",
+      "establishment",
+      "Problems"
+     ],
+     "evidence": "p7s3",
+     "conf": "med",
+     "where": "paragraph 7, sentence 3",
+     "matches": [
+      "Assyria",
+      "Phoenician"
+     ]
+    },
+    {
+     "id": "q10",
+     "n": 10,
+     "prompt": "Carthage was an enemy town which the Phoenicians won in battle.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "FALSE",
+     "anchors": [
+      "Phoenicians",
+      "town",
+      "Carthage",
+      "battle",
+      "enemy"
+     ],
+     "evidence": "p9s1",
+     "conf": "med",
+     "where": "paragraph 9, sentence 1",
+     "matches": [
+      "Carthage",
+      "towns",
+      "Phoenicians"
+     ]
+    },
+    {
+     "id": "q11",
+     "n": 11,
+     "prompt": "Phoenicians reached the Atlantic Ocean.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "TRUE",
+     "anchors": [
+      "Atlantic Ocean",
+      "Phoenicians",
+      "reached"
+     ],
+     "evidence": "p10s1",
+     "conf": "high",
+     "where": "paragraph 10, sentence 1",
+     "matches": [
+      "Phoenician",
+      "Atlantic",
+      "Phoenician"
+     ]
+    },
+    {
+     "id": "q12",
+     "n": 12,
+     "prompt": "Parts of Phoenicia were conquered by a series of empires.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "TRUE",
+     "anchors": [
+      "Phoenicia",
+      "Parts",
+      "conquered",
+      "empires",
+      "series"
+     ],
+     "evidence": "p12s1",
+     "conf": "high",
+     "where": "paragraph 12, sentence 1",
+     "matches": [
+      "Phoenicia",
+      "part"
+     ]
+    },
+    {
+     "id": "q13",
+     "n": 13,
+     "prompt": "The Phoenicians welcomed Roman control of the area",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "NOT GIVEN",
+     "anchors": [
+      "Phoenicians",
+      "Roman",
+      "control",
+      "area",
+      "welcomed"
+     ],
+     "evidence": "p12s1",
+     "conf": "low",
+     "where": "paragraph 12, sentence 1",
+     "matches": [
+      "area",
+      "Roman"
+     ]
+    }
+   ]
+  }
+ ]
+}

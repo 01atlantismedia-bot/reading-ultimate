@@ -1,0 +1,675 @@
+{
+ "id": "test-4-p2",
+ "format": "test",
+ "test": 4,
+ "part": 2,
+ "title": "Born to Trade",
+ "subtitle": "Long before our ancestors had any trappings of civilisation, they had a taste for material goods. Kate Douglas discovers where this ancient obsession has led us.",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "14",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "Humans are born to trade and we don't need shops or money to do it — the heart of commerce is an instinctive ability for what anthropologists call 'reciprocity'."
+    },
+    {
+     "id": "p1s2",
+     "text": "This is an ability to exchange goods of equal worth, and it evolved as the brains of our ancient ancestors and societies became more complex, allowing individuals to keep a running tally of their interactions with others."
+    },
+    {
+     "id": "p1s3",
+     "text": "Evidence from modern hunter-gatherers leaves little doubt that the exchange of food and favours is innate, as is the ability to keep track of the credits and debits that accrue as a result."
+    },
+    {
+     "id": "p1s4",
+     "text": "Combine this skill for mental book-keeping with even the most basic material culture, and trade inevitably follows."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "15",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "Once trade gets off the ground, the economic benefits quickly make it irresistible."
+    },
+    {
+     "id": "p2s2",
+     "text": "But exchanging tools, food and other essentials of life in a barter economy is a far cry from the shopping mall."
+    },
+    {
+     "id": "p2s3",
+     "text": "Modern consumerism extends beyond subsistence and utilitarianism to encompass everything from Gucci handbags and BMW convertibles to valuable paintings."
+    },
+    {
+     "id": "p2s4",
+     "text": "Clearly, the worth of such goods is not inherent but resides in certain intangible qualities that we invest in them."
+    },
+    {
+     "id": "p2s5",
+     "text": "When did humans start holding these goods in such high esteem?"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "16",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "All the archaeological evidence for the flowering of consumer culture has up to now pointed to a date of around 40,000 years ago."
+    },
+    {
+     "id": "p3s2",
+     "text": "That's when early modern humans started making increasingly intricate bone and stone tools, carving patterns into rocks and creating representational art such as carved figurines, jewellery and cave paintings."
+    },
+    {
+     "id": "p3s3",
+     "text": "However, discoveries in Africa are pushing the origins of consumerism much further back into human prehistory."
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "A few years ago, reports began to emerge of discoveries made at the Blombos Cave, a site of ancient human habitation in South Africa."
+    },
+    {
+     "id": "p4s2",
+     "text": "Christopher Henshilwood and colleagues from the University of Bergen in Norway dated thousands of pieces of ochre from the cave, and many of them proved to be more than 100,000 years old — before the time that early humans moved out of Africa."
+    },
+    {
+     "id": "p4s3",
+     "text": "Ochre, a coloured clay that comes in various shades from red to black, does not occur naturally around Blombos and must have been imported from quarries at least 30 kilometres away, either directly by Blombos residents or through trade."
+    },
+    {
+     "id": "p4s4",
+     "text": "Although ochre can be used to dry and preserve (cure) animal hides, the researchers are convinced the Blombos ochre had a symbolic purpose."
+    },
+    {
+     "id": "p4s5",
+     "text": "For a start, it is predominantly red — any of the other colours available would have done for curing — and the surfaces of the clay had been scraped in a way that indicates they were used to yield pigment for dyes."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "17",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "An even more intriguing discovery from Blombos was of 41 beads dating from 76,000 years ago, found in clusters and made from the shells of a tiny mollusc."
+    },
+    {
+     "id": "p5s2",
+     "text": "These cannot be natural deposits, argue the researchers, as each cluster contains shells of a similar size and colour with consistently placed holes."
+    },
+    {
+     "id": "p5s3",
+     "text": "What's more, all the beads display a pattern of wear suggesting friction from rubbing against thread, clothes or other beads."
+    },
+    {
+     "id": "p5s4",
+     "text": "The previous oldest find of beads in Africa dates back to just 45,000 years ago."
+    },
+    {
+     "id": "p5s5",
+     "text": "And it seems the Blombos people's taste for beautiful items was not an isolated phenomenon."
+    },
+    {
+     "id": "p5s6",
+     "text": "Jessica Thompson of Arizona State University in Tempe has described finding shell fragments from a site in Tanzania that she believes may represent debris from bead manufacture."
+    },
+    {
+     "id": "p5s7",
+     "text": "They are at least 45,000 — and possibly 280,000 — years old."
+    },
+    {
+     "id": "p5s8",
+     "text": "Although there is no evidence of how the ancient beads were used, their modern counterparts are often traded."
+    },
+    {
+     "id": "p5s9",
+     "text": "So it looks as though our taste for jewellery and art is much older than we thought."
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "label": "18",
+   "sentences": [
+    {
+     "id": "p6s1",
+     "text": "But why did we come to value these objects in the first place?"
+    },
+    {
+     "id": "p6s2",
+     "text": "In many animal species, individuals signal their genetic fitness by showing off with attention-grabbing adornment."
+    },
+    {
+     "id": "p6s3",
+     "text": "Some researchers think that in humans, consumer products play a similar role."
+    },
+    {
+     "id": "p6s4",
+     "text": "Archaeologist Aimee Plourde, from the University of California, also argues that even in egalitarian societies, some people are more successful than others."
+    },
+    {
+     "id": "p6s5",
+     "text": "Among our ancestors, superior skills in areas such as hunting, crafts, environmental knowledge and contact with neighbouring groups would have brought respect — in other words, prestige."
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p7s1",
+     "text": "And because prestige brings social benefits, people would want to show off their talents."
+    },
+    {
+     "id": "p7s2",
+     "text": "The best way to do this would be through demonstrating possession of material items that are hard to fake."
+    },
+    {
+     "id": "p7s3",
+     "text": "'A good hunter, for instance, could advertise his skills by wearing the tooth of an animal that is elusive or dangerous,' says Plourde."
+    },
+    {
+     "id": "p7s4",
+     "text": "The benefits of prestige would also lead to competition to acquire it."
+    },
+    {
+     "id": "p7s5",
+     "text": "As a result, the value and variety of prestige goods would spiral and there would be a parallel increase in the ranking of social systems."
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p8s1",
+     "text": "If Plourde is correct, prestige goods form a direct link between our innate drive for trade and the development of structured, hierarchical societies."
+    },
+    {
+     "id": "p8s2",
+     "text": "They are arguably the first step on the road to modern civilisation, paving the way for agriculture and urbanisation."
+    },
+    {
+     "id": "p8s3",
+     "text": "We may not be impressed by beads any more, but their modern equivalents have the same fascination."
+    },
+    {
+     "id": "p8s4",
+     "text": "Nobody believes the guy who spends €670,000 on a Bugatti Veyron car does so because he needs to travel at 250 mph."
+    },
+    {
+     "id": "p8s5",
+     "text": "We all know in today's consumer society he's buying an exclusive status symbol."
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 14–18",
+   "intro": "<p>Reading Passage 2 has five sections, <strong>14-18</strong>.</p><p>Choose the correct heading for each section from the list of headings below.</p>",
+   "questions": [
+    {
+     "id": "q14",
+     "n": 14,
+     "prompt": "Section 14",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii"
+     ],
+     "answer": "iv",
+     "anchors": [
+      "natural",
+      "human",
+      "talent"
+     ],
+     "evidence": "p1s1",
+     "conf": "med",
+     "where": "paragraph 14, sentence 1",
+     "matches": [
+      "Humans"
+     ]
+    },
+    {
+     "id": "q15",
+     "n": 15,
+     "prompt": "Section 15",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii"
+     ],
+     "answer": "iii",
+     "anchors": [
+      "Querying",
+      "changes",
+      "value",
+      "traded"
+     ],
+     "evidence": null,
+     "conf": "med"
+    },
+    {
+     "id": "q16",
+     "n": 16,
+     "prompt": "Section 16",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii"
+     ],
+     "answer": "vi",
+     "anchors": [
+      "Recent",
+      "finds",
+      "alter",
+      "theories"
+     ],
+     "evidence": "p3s2",
+     "conf": "med",
+     "where": "paragraph 16, sentence 2",
+     "matches": []
+    },
+    {
+     "id": "q17",
+     "n": 17,
+     "prompt": "Section 17",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii"
+     ],
+     "answer": "ii",
+     "anchors": [
+      "clues",
+      "indicate",
+      "ancient",
+      "items"
+     ],
+     "evidence": "p5s5",
+     "conf": "med",
+     "where": "paragraph 17, sentence 5",
+     "matches": [
+      "items"
+     ]
+    },
+    {
+     "id": "q18",
+     "n": 18,
+     "prompt": "Section 18",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii"
+     ],
+     "answer": "v",
+     "anchors": [
+      "status",
+      "gained",
+      "ownership",
+      "goods"
+     ],
+     "evidence": null,
+     "conf": "med"
+    }
+   ],
+   "list": [
+    {
+     "k": "i",
+     "t": "The desire to make expensive jewellery"
+    },
+    {
+     "k": "ii",
+     "t": "The clues that indicate ancient items were decorative"
+    },
+    {
+     "k": "iii",
+     "t": "Querying the changes in the value of traded items"
+    },
+    {
+     "k": "iv",
+     "t": "A natural human talent"
+    },
+    {
+     "k": "v",
+     "t": "How status can be gained from ownership of goods"
+    },
+    {
+     "k": "vi",
+     "t": "Recent finds alter theories about when consumerism started"
+    },
+    {
+     "k": "vii",
+     "t": "Changes in research methods"
+    }
+   ],
+   "type": "heading"
+  },
+  {
+   "id": "g2",
+   "title": "Questions 19–21",
+   "intro": "<p>Choose the correct letter, <strong>A, B, C</strong> or <strong>D</strong>.</p>",
+   "questions": [
+    {
+     "id": "q19",
+     "n": 19,
+     "prompt": "In paragraph 14, 'reciprocity' refers to our ancestors' ability to",
+     "options": [
+      "A. keep written records of different goods traded",
+      "B. monitor the balance between goods given and received",
+      "C. produce more materials for trading purposes",
+      "D. make money from trading goods and services"
+     ],
+     "answer": "B",
+     "anchors": [
+      "14",
+      "reciprocity'",
+      "ancestors'",
+      "ability",
+      "goods"
+     ],
+     "evidence": "p1s2",
+     "conf": "high",
+     "where": "paragraph 14, sentence 2",
+     "matches": [
+      "ability",
+      "goods",
+      "ancestors"
+     ]
+    },
+    {
+     "id": "q20",
+     "n": 20,
+     "prompt": "What is said about the ochre found at Blombos Cave?",
+     "options": [
+      "A. It is of a type only found in this particular area.",
+      "B. It has all been dyed to give the same shade of red.",
+      "C. It has been perfectly preserved despite its age.",
+      "D. It appears it was selected for its colour."
+     ],
+     "answer": "D",
+     "anchors": [
+      "Blombos Cave",
+      "found",
+      "colour",
+      "ochre",
+      "selected"
+     ],
+     "evidence": "p4s3",
+     "conf": "med",
+     "where": "paragraph 4, sentence 3",
+     "matches": [
+      "Ochre",
+      "coloured",
+      "Blombos",
+      "Blombos"
+     ]
+    },
+    {
+     "id": "q21",
+     "n": 21,
+     "prompt": "What made the researchers realise the purpose of the beads found at Blombos Cave?",
+     "options": [
+      "A. They are of many different shapes and sizes.",
+      "B. They were found in large numbers, clustered together.",
+      "C. They have patterns in many different colours.",
+      "D. They have holes and markings suggesting they were joined together."
+     ],
+     "answer": "D",
+     "anchors": [
+      "Blombos Cave",
+      "suggesting",
+      "purpose",
+      "holes",
+      "found"
+     ],
+     "evidence": "p4s1",
+     "conf": "med",
+     "where": "paragraph 4, sentence 1",
+     "matches": [
+      "Blombos",
+      "Cave"
+     ]
+    }
+   ],
+   "type": "mcq"
+  },
+  {
+   "id": "g3",
+   "title": "Questions 22–26",
+   "intro": "<p>Complete the summary below.</p><p>Choose the correct word from the list, <strong>A-J</strong>, below.</p>",
+   "questions": [
+    {
+     "id": "q22",
+     "n": 22,
+     "prompt": "Some researchers argue that we may use ownership of desirable goods to demonstrate our strength and fitness as other _____ use their attractive physical features.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+     ],
+     "answer": "I",
+     "anchors": [
+      "Some",
+      "fitness",
+      "argue",
+      "researchers",
+      "goods"
+     ],
+     "evidence": "p6s2",
+     "conf": "high",
+     "where": "paragraph 18, sentence 2",
+     "matches": [
+      "fitness"
+     ]
+    },
+    {
+     "id": "q23",
+     "n": 23,
+     "prompt": "Showing off one's superiority is not a new phenomenon and even in ancient times successful people would have gained _____ from this.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+     ],
+     "answer": "F",
+     "anchors": [
+      "not",
+      "successful",
+      "phenomenon",
+      "times",
+      "Showing"
+     ],
+     "evidence": "p6s5",
+     "conf": "high",
+     "where": "paragraph 18, sentence 5",
+     "matches": []
+    },
+    {
+     "id": "q24",
+     "n": 24,
+     "prompt": "A desire for status could have led to an increase in the worth of prestige goods and to _____ among people wishing to achieve this status.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+     ],
+     "answer": "A",
+     "anchors": [
+      "increase",
+      "status",
+      "among",
+      "people"
+     ],
+     "evidence": "p7s5",
+     "conf": "med",
+     "where": "paragraph 7, sentence 5",
+     "matches": [
+      "increase"
+     ]
+    },
+    {
+     "id": "q25",
+     "n": 25,
+     "prompt": "It is thought that our natural desire to trade provided a basis for organised farming and _____ development and finally resulted in the complex societies which can be seen today.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+     ],
+     "answer": "J",
+     "anchors": [
+      "development",
+      "thought",
+      "complex",
+      "resulted"
+     ],
+     "evidence": "p1s1",
+     "conf": "high",
+     "where": "paragraph 14, sentence 1",
+     "matches": []
+    },
+    {
+     "id": "q26",
+     "n": 26,
+     "prompt": "Whilst we do not value things such as beads nowadays, other items hold the same appeal for us and bring the same status as owning beads did for our _____ .",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+     ],
+     "answer": "H",
+     "anchors": [
+      "not",
+      "status",
+      "bring",
+      "hold",
+      "value"
+     ],
+     "evidence": "p1s2",
+     "conf": "high",
+     "where": "paragraph 14, sentence 2",
+     "matches": []
+    }
+   ],
+   "list": [
+    {
+     "k": "A",
+     "t": "competitiveness"
+    },
+    {
+     "k": "B",
+     "t": "exploration"
+    },
+    {
+     "k": "C",
+     "t": "trade"
+    },
+    {
+     "k": "D",
+     "t": "settlements"
+    },
+    {
+     "k": "E",
+     "t": "stability"
+    },
+    {
+     "k": "F",
+     "t": "respect"
+    },
+    {
+     "k": "G",
+     "t": "appearance"
+    },
+    {
+     "k": "H",
+     "t": "ancestors"
+    },
+    {
+     "k": "I",
+     "t": "species"
+    },
+    {
+     "k": "J",
+     "t": "city"
+    }
+   ],
+   "template": "<p class=\"ct\">Why certain objects are valued?</p><p>Some researchers argue that we may use ownership of desirable goods to demonstrate our strength and fitness as other {{22}} use their attractive physical features. Showing off one&#x27;s superiority is not a new phenomenon and even in ancient times successful people would have gained {{23}} from this. A desire for status could have led to an increase in the worth of prestige goods and to {{24}} among people wishing to achieve this status. It is thought that our natural desire to trade provided a basis for organised farming and {{25}} development and finally resulted in the complex societies which can be seen today. Whilst we do not value things such as beads nowadays, other items hold the same appeal for us and bring the same status as owning beads did for our {{26}} .</p>",
+   "type": "bank"
+  }
+ ]
+}

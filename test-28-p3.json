@@ -1,0 +1,619 @@
+{
+ "id": "test-28-p3",
+ "format": "test",
+ "test": 28,
+ "part": 3,
+ "title": "Left or right?",
+ "subtitle": "An overview of some research into lateralization: the dominance of one side of the body over the other",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "A",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "Creatures across the animal kingdom have a preference for one foot, eye or even antenna."
+    },
+    {
+     "id": "p1s2",
+     "text": "The cause of this trait, called lateralisation, is fairly simple: one side of the brain, which generally controls the opposite side of the body, is more dominant than the other when processing certain tasks."
+    },
+    {
+     "id": "p1s3",
+     "text": "This does, on some occasions, let the animal down: such as when a toad fails to escape from a snake approaching from the right, just because its right eye is worse at spotting danger than its left."
+    },
+    {
+     "id": "p1s4",
+     "text": "So why would animals evolve a characteristic that seems to endanger them?"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "B",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "For many years it was assumed that lateralisation was a uniquely human trait, but this notion rapidly fell apart as researchers started uncovering evidence of lateralisation in all sorts of animals."
+    },
+    {
+     "id": "p2s2",
+     "text": "For example, in the 1970s, Lesley Rogers, now at the University of New England in Australia, was studying memory and learning in chicks."
+    },
+    {
+     "id": "p2s3",
+     "text": "She had been injecting a chemical into chicks’ brains to stop them learning how to spot grains of food among distracting pebbles, and was surprised to observe that the chemical only worked when applied to the left hemisphere of the brain."
+    },
+    {
+     "id": "p2s4",
+     "text": "That strongly suggested that the right side of the chick’s brain played little or no role in the learning of such behaviours."
+    },
+    {
+     "id": "p2s5",
+     "text": "Similar evidence appeared in songbirds and rats around the same time, and since then, researchers have built up an impressive catalogue of animal lateralisation."
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "C",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "In some animals, lateralisation is simply a preference for a single paw or foot, while in others it appears in more general patterns of behaviour."
+    },
+    {
+     "id": "p3s2",
+     "text": "The left side of most vertebrate brains, for example, seems to process and control feeding."
+    },
+    {
+     "id": "p3s3",
+     "text": "Since the left hemisphere processes input from the right side of the body, that means animals as diverse as fish, toads and birds are more likely to attack prey or food items viewed with their right eye."
+    },
+    {
+     "id": "p3s4",
+     "text": "Even humpback whales prefer to use the right side of their jaws to scrape sand eels from the ocean floor."
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "D",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "Genetics plays a part in determining lateralisation, but environmental factors have an impact too."
+    },
+    {
+     "id": "p4s2",
+     "text": "Rogers found that a chick’s lateralisation depends on whether it is exposed to light before hatching from its egg – if it is kept in the dark during this period, neither hemisphere becomes dominant."
+    },
+    {
+     "id": "p4s3",
+     "text": "In 2004, Rogers used this observation to test the advantages of brain bias in chicks faced with the challenge of multitasking."
+    },
+    {
+     "id": "p4s4",
+     "text": "She hatched chicks with either strong or weak lateralisation, then presented the two groups with food hidden among small pebbles and the threatening shape of a fake predator flying overhead."
+    },
+    {
+     "id": "p4s5",
+     "text": "As predicted, the birds incubated in the light looked for food mainly with their right eye, while using the other to check out the predator."
+    },
+    {
+     "id": "p4s6",
+     "text": "The weakly-lateralised chicks, meanwhile, had difficulty performing these two activities simultaneously."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "E",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "Similar results probably hold true for many other animals."
+    },
+    {
+     "id": "p5s2",
+     "text": "In 2006, Angelo Bisazza at the University of Padua set out to observe the differences in feeding behaviour between strongly-lateralised and weakly-lateralised fish."
+    },
+    {
+     "id": "p5s3",
+     "text": "He found that strongly-lateralised individuals were able to feed twice as fast as weakly-lateralised ones when there was a threat of a predator looming above them."
+    },
+    {
+     "id": "p5s4",
+     "text": "Assigning different jobs to different brain halves may be especially advantageous for animals such as birds or fish, whose eyes are placed on the sides of their heads."
+    },
+    {
+     "id": "p5s5",
+     "text": "This enables them to process input from each side separately, with different tasks in mind."
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "label": "F",
+   "sentences": [
+    {
+     "id": "p6s1",
+     "text": "And what of those animals who favour a specific side for almost all tasks?"
+    },
+    {
+     "id": "p6s2",
+     "text": "In 2009, Maria Magat and Culum Brown at Macquarie University in Australia wanted to see if there was general cognitive advantage in lateralisation."
+    },
+    {
+     "id": "p6s3",
+     "text": "To investigate, they turned to parrots, which can be either strongly right- or left-footed, or ambidextrous (without dominance)."
+    },
+    {
+     "id": "p6s4",
+     "text": "The parrots were given the intellectually demanding task of pulling a snack on a string up to their beaks, using a co-ordinated combination of claws and beak."
+    },
+    {
+     "id": "p6s5",
+     "text": "The results showed that the parrots with the strongest foot preferences worked out the puzzle far more quickly than their ambidextrous peers."
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "label": "G",
+   "sentences": [
+    {
+     "id": "p7s1",
+     "text": "A further puzzle is why are there always a few exceptions, like left-handed humans, who are wired differently from the majority of the population?"
+    },
+    {
+     "id": "p7s2",
+     "text": "Giorgio Vallortigara and Stefano Ghirlanda of Stockholm University seem to have found the answer via mathematical models."
+    },
+    {
+     "id": "p7s3",
+     "text": "These have shown that a group of fish is likely to survive a shark attack with the fewest casualties if the majority turn together in one direction while a very small proportion of the group escape in the direction that the predator is not expecting."
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "label": "H",
+   "sentences": [
+    {
+     "id": "p8s1",
+     "text": "This imbalance of lateralisation within populations may also have advantages for individuals."
+    },
+    {
+     "id": "p8s2",
+     "text": "Whereas most co-operative interactions require participants to react similarly, there are some situations – such as aggressive interactions – where it can benefit an individual to launch an attack from an unexpected quarter."
+    },
+    {
+     "id": "p8s3",
+     "text": "Perhaps this can partly explain the existence of left-handers in human societies."
+    },
+    {
+     "id": "p8s4",
+     "text": "It has been suggested that when it comes to hand-to-hand fighting, left-handers may have the advantage over the right-handed majority."
+    },
+    {
+     "id": "p8s5",
+     "text": "Where survival depends on the element of surprise, it may indeed pay to be different."
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 27–30",
+   "type": "match",
+   "intro": "<p>Complete each sentence with the correct ending, <strong>A–F</strong>, below.</p><p>Write the correct letter, <strong>A–F</strong>.</p>",
+   "list": [
+    {
+     "k": "A",
+     "t": "lateralisation is more common in some species than in others."
+    },
+    {
+     "k": "B",
+     "t": "it benefits a population if some members have a different lateralisation than the majority"
+    },
+    {
+     "k": "C",
+     "t": "lateralisation helps animals do two things at the same time."
+    },
+    {
+     "k": "D",
+     "t": "lateralisation is not confined to human beings"
+    },
+    {
+     "k": "E",
+     "t": "the greater an animal’s lateralisation, the better it is at problem-solving."
+    },
+    {
+     "k": "F",
+     "t": "strong lateralisation may sometimes put groups of animals in danger."
+    }
+   ],
+   "questions": [
+    {
+     "id": "q27",
+     "n": 27,
+     "prompt": "In the 1970s, Lesley Rogers discovered that",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "D",
+     "anchors": [
+      "Lesley Rogers",
+      "not",
+      "1970s",
+      "human",
+      "lateralisation",
+      "discovered"
+     ],
+     "evidence": "p2s2",
+     "conf": "high",
+     "where": "paragraph B, sentence 2",
+     "matches": [
+      "1970s",
+      "Lesley",
+      "Rogers"
+     ]
+    },
+    {
+     "id": "q28",
+     "n": 28,
+     "prompt": "Angelo Bisazza’s experiments revealed that",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "C",
+     "anchors": [
+      "Bisazza’s",
+      "Angelo",
+      "time",
+      "lateralisation",
+      "animals"
+     ],
+     "evidence": "p2s5",
+     "conf": "high",
+     "where": "paragraph B, sentence 5",
+     "matches": [
+      "time",
+      "animal",
+      "lateralisation"
+     ]
+    },
+    {
+     "id": "q29",
+     "n": 29,
+     "prompt": "Magat and Brown’s studies show that",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "E",
+     "anchors": [
+      "Brown’s",
+      "Magat",
+      "show",
+      "lateralisation",
+      "problem-solving"
+     ],
+     "evidence": "p6s2",
+     "conf": "med",
+     "where": "paragraph F, sentence 2",
+     "matches": [
+      "Magat",
+      "lateralisation"
+     ]
+    },
+    {
+     "id": "q30",
+     "n": 30,
+     "prompt": "Vallortigara and Ghirlanda’s research findings suggest that",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "B",
+     "anchors": [
+      "Ghirlanda’s",
+      "some",
+      "Vallortigara",
+      "benefits",
+      "population",
+      "suggest"
+     ],
+     "evidence": "p7s1",
+     "conf": "med",
+     "where": "paragraph G, sentence 1",
+     "matches": [
+      "population"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Questions 31–35",
+   "intro": "<p>Complete the summary below.</p><p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>",
+   "type": "completion",
+   "questions": [
+    {
+     "id": "q31",
+     "n": 31,
+     "prompt": "Lateralisation is determined by both genetic and _____ influences.",
+     "answer": "environmental",
+     "anchors": [
+      "both",
+      "determined",
+      "genetic",
+      "Lateralisation",
+      "influences"
+     ],
+     "evidence": "p4s1",
+     "conf": "high",
+     "where": "paragraph D, sentence 1",
+     "matches": [
+      "Genetics",
+      "determining",
+      "lateralisation"
+     ]
+    },
+    {
+     "id": "q32",
+     "n": 32,
+     "prompt": "Rogers found that chicks whose eggs are given _____ during the incubation period tend to have a stronger lateralisation.",
+     "answer": "light",
+     "anchors": [
+      "period",
+      "given",
+      "Rogers",
+      "found"
+     ],
+     "evidence": "p4s2",
+     "conf": "high",
+     "where": "paragraph D, sentence 2",
+     "matches": [
+      "Rogers",
+      "found",
+      "period"
+     ]
+    },
+    {
+     "id": "q33",
+     "n": 33,
+     "prompt": "Her 2004 experiment set out to prove that these chicks were better at _____ than weakly lateralised chicks.",
+     "answer": "multitasking",
+     "anchors": [
+      "2004",
+      "weakly",
+      "chicks",
+      "lateralised",
+      "experiment"
+     ],
+     "evidence": "p4s3",
+     "conf": "high",
+     "where": "paragraph D, sentence 3",
+     "matches": [
+      "2004",
+      "chicks"
+     ]
+    },
+    {
+     "id": "q34",
+     "n": 34,
+     "prompt": "As expected, the strongly lateralised birds in the experiment were more able to locate _____ using their right eye, while using their left eye to monitor an imitation … located above them.",
+     "answer": "food",
+     "anchors": [
+      "while",
+      "expected",
+      "above",
+      "able",
+      "using"
+     ],
+     "evidence": "p4s5",
+     "conf": "high",
+     "where": "paragraph D, sentence 5",
+     "matches": [
+      "while",
+      "using"
+     ]
+    },
+    {
+     "id": "q35",
+     "n": 35,
+     "prompt": "As expected, the strongly lateralised birds in the experiment were more able to locate … using their right eye, while using their left eye to monitor an imitation _____ located above them.",
+     "answer": "predator",
+     "anchors": [
+      "while",
+      "expected",
+      "above",
+      "able",
+      "using"
+     ],
+     "evidence": "p4s5",
+     "conf": "high",
+     "where": "paragraph D, sentence 5",
+     "matches": [
+      "while",
+      "using"
+     ]
+    }
+   ],
+   "template": "<p class=\"ct\"><strong>Lesley Rogers’ 2004 Experiment</strong></p><p>Lateralisation is determined by both genetic and {{31}} influences. Rogers found that chicks whose eggs are given {{32}} during the incubation period tend to have a stronger lateralisation. Her 2004 experiment set out to prove that these chicks were better at {{33}} than weakly lateralised chicks. As expected, the strongly lateralised birds in the experiment were more able to locate {{34}} using their right eye, while using their left eye to monitor an imitation {{35}} located above them.</p>"
+  },
+  {
+   "id": "g3",
+   "title": "Questions 36–40",
+   "type": "match",
+   "intro": "<p>Reading Passage 3 has eight paragraphs, <strong>A–H</strong>. Which paragraph contains the following information?</p><p>Write the correct letter, <strong>A–H</strong>. <strong>NB</strong> You may use any letter more than once.</p>",
+   "questions": [
+    {
+     "id": "q36",
+     "n": 36,
+     "prompt": "description of a study which supports another scientist’s findings",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "E",
+     "anchors": [
+      "study",
+      "scientist’s",
+      "description",
+      "supports"
+     ],
+     "evidence": null,
+     "conf": "low"
+    },
+    {
+     "id": "q37",
+     "n": 37,
+     "prompt": "the suggestion that a person could gain from having an opposing lateralisation to most of the population",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "H",
+     "anchors": [
+      "most",
+      "population",
+      "lateralisation",
+      "suggestion",
+      "opposing"
+     ],
+     "evidence": "p8s1",
+     "conf": "med",
+     "where": "paragraph H, sentence 1",
+     "matches": [
+      "lateralisation",
+      "populations"
+     ]
+    },
+    {
+     "id": "q38",
+     "n": 38,
+     "prompt": "reference to the large amount of knowledge of animal lateralisation that has accumulated",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "B",
+     "anchors": [
+      "lateralisation",
+      "animal",
+      "accumulated",
+      "reference"
+     ],
+     "evidence": "p2s1",
+     "conf": "med",
+     "where": "paragraph B, sentence 1",
+     "matches": [
+      "lateralisation",
+      "lateralisation",
+      "animals"
+     ]
+    },
+    {
+     "id": "q39",
+     "n": 39,
+     "prompt": "research findings that were among the first to contradict a previous belief",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "B",
+     "anchors": [
+      "first",
+      "among",
+      "contradict",
+      "previous",
+      "findings"
+     ],
+     "evidence": "p2s3",
+     "conf": "low",
+     "where": "paragraph B, sentence 3",
+     "matches": [
+      "among"
+     ]
+    },
+    {
+     "id": "q40",
+     "n": 40,
+     "prompt": "a suggestion that lateralisation would seem to disadvantage animals",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+     ],
+     "answer": "A",
+     "anchors": [
+      "seem",
+      "lateralisation",
+      "animals",
+      "disadvantage"
+     ],
+     "evidence": "p1s4",
+     "conf": "med",
+     "where": "paragraph A, sentence 4",
+     "matches": [
+      "animals",
+      "seems"
+     ]
+    }
+   ]
+  }
+ ]
+}
