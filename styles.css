@@ -400,3 +400,13 @@ body.reading { overflow: hidden; }
   .rd-top { flex-wrap: wrap; } .rd-title { flex-basis: 100%; order: -1; }
 }
 @media print { .rd { position: static; } }
+
+/* Aphrodite: "Are you sure?" gate, key words sheet, add-word chips */
+.fb.sure { border-color: var(--accent, #b08d57); }
+.sure-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 8px 0; border-top: 1px solid var(--line, rgba(0,0,0,.12)); }
+.sure-row .sure-ans { min-width: 56px; font-weight: 600; }
+.chip.vadd { cursor: pointer; border: 1px solid var(--line, rgba(0,0,0,.2)); background: transparent; font: inherit; }
+.chip.vadd[disabled] { opacity: .6; cursor: default; }
+.words-card { max-height: 82vh; overflow-y: auto; }
+.wrow { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; padding: 10px 0; border-top: 1px solid var(--line, rgba(0,0,0,.12)); }
+.wrow .ru { font-weight: 600; }

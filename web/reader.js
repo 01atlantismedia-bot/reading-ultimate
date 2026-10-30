@@ -85,7 +85,7 @@
     var title = (+T ? L('Test ', 'Тест ') + T : L('Sample', 'Пробный текст')) + ' · ' + (scope === 'all' ? L('All three passages', 'Все три текста') : L('Passage ', 'Текст ') + scope);
     app.innerHTML = '<div class="rd' + (prac && anchorsOn ? ' anchors-on' : '') + '" id="rd" data-mode="' + mode + '"><header class="rd-top"><button class="icon-btn" id="rdExit" aria-label="' + L('Leave', 'Выйти') + '">←</button>' +
       '<div class="rd-title"><b>' + esc(title) + '</b><span class="rd-badge">' + (prac ? L('Practice', 'Практика') : L('Exam', 'Экзамен')) + '</span></div><div class="rd-tools">' +
-      (prac ? '<button class="tg" id="tAnch" aria-pressed="' + anchorsOn + '">' + L('Anchors', 'Якоря') + '</button>' : '') +
+      (prac ? '<button class="tg" id="tAnch" aria-pressed="' + anchorsOn + '">' + L('Anchors', 'Якоря') + '</button><button class="tg" id="tWords">' + L('Words', 'Слова') + '</button>' : '') +
       '<button class="tg hide-sm" id="tMinus" aria-label="Smaller text">A−</button><button class="tg hide-sm" id="tPlus" aria-label="Larger text">A+</button>' +
       '<button class="tg rd-switch" id="tSwitch">' + L('Questions', 'Вопросы') + '</button><span class="rd-time" id="rdTime"></span><button class="btn small accent" id="rdSubmit">' + L('Submit', 'Сдать') + '</button></div></header>' +
       '<div class="rd-body"><section class="rd-text" id="rdText">' + ps.map(function (p, i) { return '<div class="rd-part" data-i="' + i + '"' + (i ? ' hidden' : '') + '>' + textHTML(p, i) + '</div>'; }).join('') + '</section>' +
@@ -122,7 +122,7 @@
   }
 
   /* ---------- interaction ---------- */
-  function setVal(qid, v) { R.vals[qid] = v; refreshNav(); }
+  function setVal(qid, v) { R.vals[qid] = v; refreshNav(); var f = R.qs[qid], sg = f && $('.qgroup[data-g="' + f.g.id + '"][data-pi="' + f.pi + '"]'); if (sg) sg.dataset.sure = ''; }
   function wire() {
     var rd = $('#rd'), qs = $('#rdQs');
     $('#rdExit').onclick = function () { if (R.done || !Object.keys(R.vals).length || confirm(L('Leave now? Your answers will be lost.', 'Выйти? Ответы будут потеряны.'))) location.hash = '#/'; };
@@ -130,6 +130,7 @@
     $('#tSwitch').onclick = function () { rd.classList.toggle('showq'); this.textContent = rd.classList.contains('showq') ? L('Passage', 'Текст') : L('Questions', 'Вопросы'); };
     var fs = 18, size = function (d) { fs = Math.min(26, Math.max(14, fs + d)); rd.style.setProperty('--fs', fs + 'px'); };
     $('#tMinus').onclick = function () { size(-1); }; $('#tPlus').onclick = function () { size(1); };
+    var tw = $('#tWords'); if (tw) tw.onclick = wordsSheet;
     var ta = $('#tAnch'); if (ta) ta.onclick = function () { var on = rd.classList.toggle('anchors-on'); this.setAttribute('aria-pressed', String(on)); A.S.anchors = on; A.persist(); };
     $('#rdNav').onclick = function (e) {
       var g = e.target.closest('[data-go]'); if (g) { go(+g.dataset.go); return; }
@@ -144,6 +145,8 @@
         else cur = cur[0] === v ? [] : [v];
         $$('.opt', box).forEach(function (b) { b.setAttribute('aria-pressed', String(cur.indexOf(b.dataset.v) >= 0)); }); setVal(id, cur.join(',')); return; }
       var b = e.target.closest('[data-act]'); if (b) { var sec = b.closest('.qgroup'); (b.dataset.act === 'hint' ? hint : check)(sec); return; }
+      var sure = e.target.closest('[data-sure]'); if (sure) { var sg = sure.closest('.qgroup'); if (sure.dataset.sure === 'yes') { sg.dataset.sure = '1'; check(sg); } else { var ff = $('.feed', sg); ff.innerHTML = ''; ff.dataset.kind = ''; } return; }
+      if (addWordClick(e)) return;
       var l = e.target.closest('[data-loc]'); if (l) locate(l.dataset.loc); var t = e.target.closest('[data-cause]'); if (t) { R.cause[t.dataset.q] = t.dataset.cause; $$('[data-q="' + t.dataset.q + '"]', t.parentNode).forEach(function (x) { x.setAttribute('aria-pressed', String(x === t)); }); }
     });
     qs.addEventListener('input', function (e) { var id = e.target.dataset.q; if (id) setVal(id, e.target.value.trim()); });
@@ -205,6 +208,8 @@
     if (checked && TFHINT[q.answer]) h += '<div class="muted">' + esc(L(TFHINT[q.answer][0], TFHINT[q.answer][1])) + '</div>';
     if (checked && q.explanation) h += '<p style="margin:6px 0 0">' + A.tx(q.explanation) + '</p>';
     if (checked && q.evidence) h += '<blockquote>' + esc(sentText(f.p, q.evidence)) + '</blockquote>';
+    var gw = checked && q.evidence ? glossIn(f.p, sentText(f.p, q.evidence)) : [];
+    if (gw.length) h += '<div class="chips"><span class="lbl">' + L('Didn’t know these words? Tap to save', 'Не знал(а) эти слова? Нажми, чтобы сохранить') + '</span>' + gw.map(function (w) { return '<button type="button" class="chip vadd" data-vadd="' + esc(w.word) + '" data-pi="' + f.pi + '"' + (A.deckHas(w.word) ? ' disabled' : '') + '>' + (A.deckHas(w.word) ? '✓ ' : '+ ') + esc(w.word) + ' — ' + esc(w.ru) + '</button>'; }).join('') + '</div>';
     h += '<div class="chips">' + ((q.anchors || []).length ? '<span class="lbl">' + L('Anchors', 'Якоря') + '</span>' + q.anchors.map(function (a) { return '<span class="chip a">' + esc(a) + '</span>'; }).join('') : '') +
       (q.where ? '<span class="lbl">→ ' + esc(q.where) + '</span>' : '') + (q.evidence ? '<button type="button" class="btn small ghost" data-loc="' + q.id + '">' + L('Locate', 'Найти в тексте') + '</button>' : '') + '</div>';
     if (q.conf === 'low') h += '<div class="muted" style="margin-top:6px;font-size:12.5px">' + L('Located automatically. Double-check this one against the passage.', 'Найдено автоматически. Перепроверь по тексту.') + '</div>';
@@ -214,13 +219,46 @@
   }
   function groupOf(sec) { var pi = +sec.dataset.pi; return R.ps[pi].groups.filter(function (g) { return g.id === sec.dataset.g; })[0]; }
   function hint(sec) { var g = groupOf(sec), feed = $('.feed', sec); if (feed.dataset.kind === 'hint') { feed.innerHTML = ''; feed.dataset.kind = ''; return; } feed.dataset.kind = 'hint'; feed.innerHTML = g.questions.map(function (q) { return fb(R.qs[q.id], false); }).join(''); }
+  function whereText(q) { var w = q.where ? q.where.split(',')[0] : ''; return w ? L('Look in ' + w, 'Ищи: ' + w.replace('paragraph', 'абзац')) : L('Search the whole passage', 'Ищи по всему тексту'); }
+  function gate(sec, g, feed) { // "Are you sure?" step before the answers are checked
+    feed.dataset.kind = 'gate';
+    feed.innerHTML = '<div class="fb sure"><div class="fh"><b>' + L('Are you sure?', 'Ты уверен(а)?') + '</b></div>' +
+      '<p style="margin:6px 0 10px">' + L('Before I check, find the sentence in the passage that proves each answer. Not sure where to look? Use the hint, or tap “Show me”.', 'Прежде чем проверить, найди в тексте предложение, которое доказывает каждый ответ. Не знаешь, где искать? Смотри подсказку или нажми «Показать».') + '</p>' +
+      g.questions.map(function (q) {
+        var v = R.vals[q.id];
+        return '<div class="sure-row"><b>' + q.n + (q.n2 ? '–' + q.n2 : '') + '</b><span class="sure-ans">' + (v ? esc(v) : '<i>' + L('no answer yet', 'ответа пока нет') + '</i>') + '</span><span class="muted">' + esc(whereText(q)) + '</span>' +
+          (q.evidence ? '<button type="button" class="btn small ghost" data-loc="' + q.id + '">' + L('Show me', 'Показать') + '</button>' : '') + '</div>'; }).join('') +
+      '<div class="q-actions"><button type="button" class="btn small" data-sure="yes">' + L('Yes, check my answers', 'Да, проверить') + '</button><button type="button" class="btn small ghost" data-sure="no">' + L('Let me look again', 'Посмотрю ещё раз') + '</button></div></div>';
+  }
+  function glossIn(p, text) { return (p.glossary || []).filter(function (g) { return new RegExp('\\b' + g.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '(?:s|es|ed|ing)?\\b', 'i').test(text); }); }
+  function addWordClick(e) { // chips: "+ word — перевод" put the word into the student's review deck
+    var b = e.target.closest('[data-vadd]'); if (!b) return false;
+    var p = R.ps[+b.dataset.pi], g = p && (p.glossary || []).filter(function (x) { return x.word === b.dataset.vadd; })[0]; if (!g) return true;
+    A.addToDeck(g); b.textContent = '✓ ' + g.word; b.disabled = true; A.toast(L('Added to your review deck', 'Добавлено в колоду')); return true;
+  }
+  function wordsSheet() { // key words of the passage the student is reading, English + Russian
+    var p = R.ps[R.cur], gl = p.glossary || [], sh = $('#sheet'); sh.hidden = false;
+    var close = function () { sh.hidden = true; sh.innerHTML = ''; };
+    sh.innerHTML = '<div class="sheet-card words-card" role="dialog" aria-modal="true"><span class="eyebrow">' + L('Key words in this passage', 'Ключевые слова в тексте') + '</span>' +
+      (gl.length ? gl.map(function (g, i) {
+        return '<div class="wrow"><div><b>' + esc(g.word) + '</b>' + (g.synonym ? ' <span class="muted">≈ ' + esc(g.synonym) + '</span>' : '') + '<br>' + esc(g.def_en) + '<br><span class="ru">' + esc(g.ru) + '</span>' + (g.ru_alt ? ' <span class="muted">· ' + esc(g.ru_alt) + '</span>' : '') + '</div>' +
+          '<button type="button" class="btn small ghost" data-wadd="' + i + '"' + (A.deckHas(g.word) ? ' disabled' : '') + '>' + (A.deckHas(g.word) ? '✓' : '+') + '</button></div>'; }).join('') : '<p class="muted">' + L('No word list for this passage yet.', 'Для этого текста пока нет списка слов.') + '</p>') +
+      '<div class="q-actions">' + (gl.length ? '<button type="button" class="btn small" id="wAll">' + L('Add all to my words', 'Добавить все в мои слова') + '</button>' : '') + '<button type="button" class="btn small ghost" id="wClose">' + L('Close', 'Закрыть') + '</button></div></div>';
+    sh.onclick = function (e) { if (e.target === sh) { close(); return; }
+      var b = e.target.closest('[data-wadd]'); if (b && !b.disabled) { A.addToDeck(gl[+b.dataset.wadd]); b.textContent = '✓'; b.disabled = true; A.toast(L('Added to your review deck', 'Добавлено в колоду')); } };
+    $('#wClose').onclick = close;
+    var all = $('#wAll'); if (all) all.onclick = function () { gl.forEach(function (g) { A.addToDeck(g); }); A.toast(L('All words added to your review deck', 'Все слова добавлены в колоду')); close(); };
+  }
   function check(sec) {
-    var g = groupOf(sec), feed = $('.feed', sec); feed.dataset.kind = 'check';
+    var g = groupOf(sec), feed = $('.feed', sec);
+    if (sec.dataset.sure !== '1') { gate(sec, g, feed); return; }
+    feed.dataset.kind = 'check';
     g.questions.forEach(function (q) {
       var val = R.vals[q.id] || '', good = ok(q, val), els = $$('[data-q="' + q.id + '"]', sec);
       els.forEach(function (el) { if (el.classList.contains('opts')) $$('.opt', el).forEach(function (b) { var on = (val ? val.split(',') : []).indexOf(b.dataset.v) >= 0, right = (isMulti(q) ? q.answer : [q.answer]).indexOf(b.dataset.v) >= 0; b.classList.toggle('right', right); b.classList.toggle('wrong', on && !right); }); else if (!el.dataset.cause) { el.classList.toggle('right', good); el.classList.toggle('wrong', !good && !!val); } });
     });
-    feed.innerHTML = g.questions.map(function (q) { return fb(R.qs[q.id], true); }).join('');
+    feed.innerHTML = g.questions.map(function (q) { return fb(R.qs[q.id], true); }).join('') +
+      '<p class="muted" style="margin:10px 0 0;font-size:13px">' + L('Another word you didn’t know? Select it in the passage and tap Translate, or open Words for the key words.', 'Ещё есть незнакомое слово? Выдели его в тексте и нажми «Перевод» или открой «Слова».') + '</p>';
   }
 
   /* ---------- submit + results ---------- */
@@ -251,7 +289,7 @@
       '<section class="block"><span class="eyebrow">' + L('To review', 'Повторить') + ' (' + wrong.length + ')</span><div class="tbl">' + (wrong.map(row).join('') || '<p class="muted">' + L('Nothing. A clean sheet.', 'Ничего. Чистый лист.') + '</p>') + '</div></section>' +
       (right.length ? '<details class="block"><summary class="eyebrow" style="cursor:pointer">' + L('Correct', 'Верно') + ' (' + right.length + ')</summary><div class="tbl">' + right.map(row).join('') + '</div></details>' : '') +
       '<div class="row" style="margin-top:34px"><a class="btn" href="#/">' + L('Back to practice', 'К практике') + '</a><a class="btn ghost" href="#/progress">' + L('Progress', 'Прогресс') + '</a></div></div>';
-    $('#rd').appendChild(el); el.addEventListener('click', function (e) { var l = e.target.closest('[data-loc]'); if (l) { el.hidden = true; locate(l.dataset.loc); var back = document.createElement('button'); back.className = 'btn small accent'; back.textContent = L('Back to results', 'К результатам'); back.style.cssText = 'position:fixed;right:16px;bottom:70px;z-index:95'; back.onclick = function () { el.hidden = false; back.remove(); }; $('#rd').appendChild(back); } });
+    $('#rd').appendChild(el); el.addEventListener('click', function (e) { if (addWordClick(e)) return; var l = e.target.closest('[data-loc]'); if (l) { el.hidden = true; locate(l.dataset.loc); var back = document.createElement('button'); back.className = 'btn small accent'; back.textContent = L('Back to results', 'К результатам'); back.style.cssText = 'position:fixed;right:16px;bottom:70px;z-index:95'; back.onclick = function () { el.hidden = false; back.remove(); }; $('#rd').appendChild(back); } });
     A.animateBars(); el.scrollTop = 0;
   }
 

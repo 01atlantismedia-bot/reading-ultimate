@@ -1,0 +1,2426 @@
+{
+ "test-3-p1": [
+  {
+   "word": "lineage",
+   "def_en": "a line of descendants from a common ancestor",
+   "synonym": "ancestry",
+   "ru": "происхождение, род, линия",
+   "ru_alt": "родословная",
+   "preteach": true
+  },
+  {
+   "word": "resemble",
+   "def_en": "to look like or be similar to something",
+   "synonym": "look like",
+   "ru": "напоминать, быть похожим",
+   "ru_alt": "быть похожим на",
+   "preteach": true
+  },
+  {
+   "word": "inhabits",
+   "def_en": "lives in a place",
+   "synonym": "occupies",
+   "ru": "обитает, населяет",
+   "ru_alt": "проживает",
+   "preteach": true
+  },
+  {
+   "word": "extinct",
+   "def_en": "no longer existing; having died out",
+   "synonym": "vanished",
+   "ru": "вымерший",
+   "ru_alt": "исчезнувший",
+   "preteach": true
+  },
+  {
+   "word": "distinctive",
+   "def_en": "clearly different and easy to recognise",
+   "synonym": "characteristic",
+   "ru": "особый, отличительный",
+   "ru_alt": "характерный",
+   "preteach": true
+  },
+  {
+   "word": "burrow",
+   "def_en": "a hole in the ground made by an animal to live in",
+   "synonym": "tunnel",
+   "ru": "нора",
+   "ru_alt": "логово, подземный ход",
+   "preteach": false
+  },
+  {
+   "word": "incubate",
+   "def_en": "to keep eggs warm until the young come out",
+   "synonym": "hatch",
+   "ru": "насиживать, инкубировать",
+   "ru_alt": "выводить птенцов",
+   "preteach": false
+  },
+  {
+   "word": "hatchlings",
+   "def_en": "young animals that have just come out of eggs",
+   "synonym": "chicks",
+   "ru": "вылупившиеся детёныши",
+   "ru_alt": "новорождённые детёныши",
+   "preteach": false
+  },
+  {
+   "word": "bask",
+   "def_en": "to lie in the warmth of the sun",
+   "synonym": "sunbathe",
+   "ru": "греться на солнце",
+   "ru_alt": "нежиться на солнце",
+   "preteach": false
+  },
+  {
+   "word": "territorial",
+   "def_en": "protecting an area as its own",
+   "synonym": "possessive of space",
+   "ru": "территориальный",
+   "ru_alt": "охраняющий свою территорию",
+   "preteach": false
+  },
+  {
+   "word": "carnivorous",
+   "def_en": "eating meat",
+   "synonym": "meat-eating",
+   "ru": "плотоядный",
+   "ru_alt": "хищный, питающийся мясом",
+   "preteach": false
+  },
+  {
+   "word": "predators",
+   "def_en": "animals that hunt and kill other animals",
+   "synonym": "hunters",
+   "ru": "хищники",
+   "ru_alt": "охотники, хищные звери",
+   "preteach": false
+  },
+  {
+   "word": "eradicate",
+   "def_en": "to destroy completely",
+   "synonym": "wipe out",
+   "ru": "искоренять, полностью уничтожать",
+   "ru_alt": "истребить",
+   "preteach": false
+  },
+  {
+   "word": "refuges",
+   "def_en": "safe places where animals are protected",
+   "synonym": "shelters",
+   "ru": "убежища",
+   "ru_alt": "укрытия, пристанища",
+   "preteach": false
+  },
+  {
+   "word": "captivity",
+   "def_en": "the state of being kept in an enclosure",
+   "synonym": "confinement",
+   "ru": "неволя",
+   "ru_alt": "содержание в клетке",
+   "preteach": false
+  },
+  {
+   "word": "relocated",
+   "def_en": "moved to a new place",
+   "synonym": "moved",
+   "ru": "переселили",
+   "ru_alt": "перевезли",
+   "preteach": false
+  },
+  {
+   "word": "anatomical",
+   "def_en": "relating to the structure of the body",
+   "synonym": "physical",
+   "ru": "анатомический",
+   "ru_alt": "связанный со строением тела",
+   "preteach": false
+  },
+  {
+   "word": "courts",
+   "def_en": "tries to win the attention of a mate",
+   "synonym": "woos",
+   "ru": "ухаживает",
+   "ru_alt": "ухаживает за самкой",
+   "preteach": false
+  },
+  {
+   "word": "maturity",
+   "def_en": "the state of being fully grown",
+   "synonym": "adulthood",
+   "ru": "зрелость",
+   "ru_alt": "взрослость",
+   "preteach": false
+  },
+  {
+   "word": "vigorous",
+   "def_en": "strong, active and healthy",
+   "synonym": "robust",
+   "ru": "энергичный, крепкий",
+   "ru_alt": "сильный и здоровый",
+   "preteach": false
+  },
+  {
+   "word": "abundant",
+   "def_en": "existing in large amounts",
+   "synonym": "plentiful",
+   "ru": "многочисленный, обильный",
+   "ru_alt": "в изобилии",
+   "preteach": false
+  },
+  {
+   "word": "confined",
+   "def_en": "limited to a small area",
+   "synonym": "restricted",
+   "ru": "ограниченный (рамками, местом)",
+   "ru_alt": "ограничен рамками",
+   "preteach": false
+  },
+  {
+   "word": "dense",
+   "def_en": "closely packed together",
+   "synonym": "crowded",
+   "ru": "плотный, густой",
+   "ru_alt": "густо заселённый",
+   "preteach": false
+  },
+  {
+   "word": "invertebrates",
+   "def_en": "animals without a backbone",
+   "synonym": "",
+   "ru": "беспозвоночные",
+   "ru_alt": "животные без позвоночника",
+   "preteach": false
+  },
+  {
+   "word": "conservation",
+   "def_en": "the protection of nature and wildlife",
+   "synonym": "preservation",
+   "ru": "охрана природы",
+   "ru_alt": "защита природы",
+   "preteach": false
+  }
+ ],
+ "test-3-p2": [
+  {
+   "word": "fossil",
+   "def_en": "the remains of an ancient living thing preserved in rock",
+   "synonym": "remains",
+   "ru": "ископаемое, окаменелость",
+   "ru_alt": "остатки древних организмов",
+   "preteach": true
+  },
+  {
+   "word": "biodiversity",
+   "def_en": "the variety of living things in an area",
+   "synonym": "variety of life",
+   "ru": "биоразнообразие",
+   "ru_alt": "разнообразие живой природы",
+   "preteach": true
+  },
+  {
+   "word": "flawed",
+   "def_en": "having a fault or weakness",
+   "synonym": "faulty",
+   "ru": "ошибочный, с изъяном",
+   "ru_alt": "с недостатками",
+   "preteach": true
+  },
+  {
+   "word": "riddled",
+   "def_en": "full of something unwanted",
+   "synonym": "filled",
+   "ru": "изобилующий, изрешечённый",
+   "ru_alt": "полный (недостатков)",
+   "preteach": true
+  },
+  {
+   "word": "inventory",
+   "def_en": "a complete list of things",
+   "synonym": "catalogue",
+   "ru": "перечень, опись",
+   "ru_alt": "список, реестр",
+   "preteach": true
+  },
+  {
+   "word": "advocates",
+   "def_en": "people who publicly support an idea",
+   "synonym": "supporters",
+   "ru": "сторонники",
+   "ru_alt": "защитники идеи",
+   "preteach": false
+  },
+  {
+   "word": "benchmark",
+   "def_en": "a standard used for comparison",
+   "synonym": "standard",
+   "ru": "эталон, ориентир",
+   "ru_alt": "точка отсчёта",
+   "preteach": false
+  },
+  {
+   "word": "plateau",
+   "def_en": "a stable level after a period of growth",
+   "synonym": "levelling off",
+   "ru": "плато, стабильный уровень",
+   "ru_alt": "выход на постоянный уровень",
+   "preteach": false
+  },
+  {
+   "word": "niches",
+   "def_en": "roles or places that species fill in an ecosystem",
+   "synonym": "positions",
+   "ru": "экологические ниши",
+   "ru_alt": "место в экосистеме",
+   "preteach": false
+  },
+  {
+   "word": "taxonomy",
+   "def_en": "the science of classifying living things",
+   "synonym": "classification",
+   "ru": "таксономия, классификация",
+   "ru_alt": "систематика",
+   "preteach": false
+  },
+  {
+   "word": "distort",
+   "def_en": "to change something so that it is no longer accurate",
+   "synonym": "twist",
+   "ru": "искажать",
+   "ru_alt": "искривлять, извращать",
+   "preteach": false
+  },
+  {
+   "word": "patchy",
+   "def_en": "good in some places but not in others",
+   "synonym": "uneven",
+   "ru": "неполный, фрагментарный",
+   "ru_alt": "неравномерный",
+   "preteach": false
+  },
+  {
+   "word": "mimic",
+   "def_en": "to copy or imitate",
+   "synonym": "imitate",
+   "ru": "имитировать, копировать",
+   "ru_alt": "подражать",
+   "preteach": false
+  },
+  {
+   "word": "crucial",
+   "def_en": "extremely important",
+   "synonym": "vital",
+   "ru": "решающий, крайне важный",
+   "ru_alt": "ключевой, жизненно важный",
+   "preteach": false
+  },
+  {
+   "word": "pollinators",
+   "def_en": "insects or animals that carry pollen between flowers",
+   "synonym": "",
+   "ru": "опылители",
+   "ru_alt": "переносчики пыльцы",
+   "preteach": false
+  },
+  {
+   "word": "endanger",
+   "def_en": "to put something in danger",
+   "synonym": "threaten",
+   "ru": "подвергать опасности",
+   "ru_alt": "ставить под угрозу",
+   "preteach": false
+  },
+  {
+   "word": "catalogued",
+   "def_en": "recorded in an organised list",
+   "synonym": "listed",
+   "ru": "внесённые в каталог",
+   "ru_alt": "занесённые в список",
+   "preteach": false
+  },
+  {
+   "word": "insight",
+   "def_en": "a deep understanding of something",
+   "synonym": "understanding",
+   "ru": "понимание, проницательность",
+   "ru_alt": "глубокое понимание",
+   "preteach": false
+  },
+  {
+   "word": "received wisdom",
+   "def_en": "an idea that most people accept as true",
+   "synonym": "common belief",
+   "ru": "общепринятое мнение",
+   "ru_alt": "устоявшееся мнение",
+   "preteach": false
+  },
+  {
+   "word": "irregularities",
+   "def_en": "things that do not follow the usual pattern",
+   "synonym": "anomalies",
+   "ru": "нарушения, неточности",
+   "ru_alt": "несоответствия",
+   "preteach": false
+  },
+  {
+   "word": "inflate",
+   "def_en": "to make something bigger than it really is",
+   "synonym": "exaggerate",
+   "ru": "завышать",
+   "ru_alt": "раздувать, преувеличивать",
+   "preteach": false
+  },
+  {
+   "word": "spike",
+   "def_en": "a sudden sharp rise",
+   "synonym": "surge",
+   "ru": "резкий скачок",
+   "ru_alt": "всплеск",
+   "preteach": false
+  },
+  {
+   "word": "misinterpret",
+   "def_en": "to understand something in the wrong way",
+   "synonym": "misread",
+   "ru": "неверно истолковывать",
+   "ru_alt": "понять неправильно",
+   "preteach": false
+  },
+  {
+   "word": "ecosystems",
+   "def_en": "communities of living things and their environment",
+   "synonym": "",
+   "ru": "экосистемы",
+   "ru_alt": "природные сообщества",
+   "preteach": false
+  },
+  {
+   "word": "documenting",
+   "def_en": "recording something in detail",
+   "synonym": "recording",
+   "ru": "документирование",
+   "ru_alt": "записывая, фиксируя",
+   "preteach": false
+  }
+ ],
+ "test-3-p3": [
+  {
+   "word": "assume",
+   "def_en": "to take on a duty or responsibility",
+   "synonym": "take on",
+   "ru": "брать на себя",
+   "ru_alt": "взять на себя обязанность",
+   "preteach": true
+  },
+  {
+   "word": "meteorology",
+   "def_en": "the study of the weather and the atmosphere",
+   "synonym": "weather science",
+   "ru": "метеорология",
+   "ru_alt": "наука о погоде",
+   "preteach": true
+  },
+  {
+   "word": "discipline",
+   "def_en": "a field of study or work",
+   "synonym": "field",
+   "ru": "область знаний, дисциплина",
+   "ru_alt": "отрасль науки",
+   "preteach": true
+  },
+  {
+   "word": "transmitting",
+   "def_en": "sending from one place to another",
+   "synonym": "sending",
+   "ru": "передача, передавая",
+   "ru_alt": "пересылая",
+   "preteach": true
+  },
+  {
+   "word": "impulses",
+   "def_en": "short electrical signals",
+   "synonym": "signals",
+   "ru": "импульсы",
+   "ru_alt": "сигналы тока",
+   "preteach": true
+  },
+  {
+   "word": "gutted",
+   "def_en": "removed everything from the inside of a building",
+   "synonym": "stripped",
+   "ru": "полностью опустошил",
+   "ru_alt": "вычистил изнутри",
+   "preteach": false
+  },
+  {
+   "word": "encased",
+   "def_en": "covered completely",
+   "synonym": "enclosed",
+   "ru": "заключённый, покрытый",
+   "ru_alt": "помещённый в оболочку",
+   "preteach": false
+  },
+  {
+   "word": "Admiralty",
+   "def_en": "the British government department in charge of the navy",
+   "synonym": "navy department",
+   "ru": "Адмиралтейство",
+   "ru_alt": "военно-морское ведомство",
+   "preteach": false
+  },
+  {
+   "word": "patent",
+   "def_en": "to get official legal rights to an invention",
+   "synonym": "register",
+   "ru": "патентовать",
+   "ru_alt": "оформить патент",
+   "preteach": false
+  },
+  {
+   "word": "pamphlet",
+   "def_en": "a thin booklet with information",
+   "synonym": "leaflet",
+   "ru": "брошюра",
+   "ru_alt": "буклет",
+   "preteach": false
+  },
+  {
+   "word": "prophecies",
+   "def_en": "statements about what will happen in the future",
+   "synonym": "predictions",
+   "ru": "пророчества",
+   "ru_alt": "предсказания",
+   "preteach": false
+  },
+  {
+   "word": "fruition",
+   "def_en": "the point when a plan or idea is realised",
+   "synonym": "realisation",
+   "ru": "осуществление",
+   "ru_alt": "воплощение",
+   "preteach": false
+  },
+  {
+   "word": "reaped",
+   "def_en": "received something as a result of effort",
+   "synonym": "gained",
+   "ru": "пожали, получили",
+   "ru_alt": "получили выгоду",
+   "preteach": false
+  },
+  {
+   "word": "belated",
+   "def_en": "coming later than it should",
+   "synonym": "overdue",
+   "ru": "запоздалый",
+   "ru_alt": "с опозданием",
+   "preteach": false
+  },
+  {
+   "word": "semaphore",
+   "def_en": "a signalling system using arms or flags",
+   "synonym": "signalling",
+   "ru": "семафор",
+   "ru_alt": "сигнальная система с флагами",
+   "preteach": false
+  },
+  {
+   "word": "accommodating",
+   "def_en": "providing space for something",
+   "synonym": "holding",
+   "ru": "вмещающие",
+   "ru_alt": "размещающие",
+   "preteach": false
+  },
+  {
+   "word": "telegraphy",
+   "def_en": "sending messages along wires",
+   "synonym": "",
+   "ru": "телеграфия",
+   "ru_alt": "связь по проводам",
+   "preteach": false
+  },
+  {
+   "word": "revolving",
+   "def_en": "turning around a central point",
+   "synonym": "rotating",
+   "ru": "вращающийся",
+   "ru_alt": "крутящийся",
+   "preteach": false
+  },
+  {
+   "word": "engraved",
+   "def_en": "cut into a surface",
+   "synonym": "carved",
+   "ru": "выгравированный",
+   "ru_alt": "вырезанный",
+   "preteach": false
+  },
+  {
+   "word": "suspended",
+   "def_en": "hanging from something",
+   "synonym": "hung",
+   "ru": "подвешенный",
+   "ru_alt": "висящий",
+   "preteach": false
+  },
+  {
+   "word": "wholly",
+   "def_en": "completely",
+   "synonym": "totally",
+   "ru": "полностью",
+   "ru_alt": "абсолютно",
+   "preteach": false
+  },
+  {
+   "word": "Superintendent",
+   "def_en": "a person in charge of an institution",
+   "synonym": "supervisor",
+   "ru": "управляющий, директор",
+   "ru_alt": "руководитель",
+   "preteach": false
+  },
+  {
+   "word": "devoted",
+   "def_en": "gave time and energy to something",
+   "synonym": "dedicated",
+   "ru": "посвятил",
+   "ru_alt": "отдал (силы, время)",
+   "preteach": false
+  },
+  {
+   "word": "knighted",
+   "def_en": "given the title \"Sir\" as an honour",
+   "synonym": "honoured",
+   "ru": "возведён в рыцарское звание",
+   "ru_alt": "удостоен рыцарского титула",
+   "preteach": false
+  },
+  {
+   "word": "rapidity",
+   "def_en": "great speed",
+   "synonym": "speed",
+   "ru": "быстрота",
+   "ru_alt": "скорость",
+   "preteach": false
+  }
+ ],
+ "test-4-p1": [
+  {
+   "word": "straddle",
+   "def_en": "to stand across both sides of something",
+   "synonym": "span",
+   "ru": "стоять по обе стороны",
+   "ru_alt": "расположиться по обе стороны",
+   "preteach": true
+  },
+  {
+   "word": "soaring",
+   "def_en": "rising high into the air",
+   "synonym": "towering",
+   "ru": "возвышающиеся, взмывающие",
+   "ru_alt": "устремляющиеся ввысь",
+   "preteach": true
+  },
+  {
+   "word": "significance",
+   "def_en": "importance or meaning",
+   "synonym": "importance",
+   "ru": "значение, важность",
+   "ru_alt": "смысл, роль",
+   "preteach": true
+  },
+  {
+   "word": "emblem",
+   "def_en": "a symbol that represents a country or group",
+   "synonym": "symbol",
+   "ru": "эмблема",
+   "ru_alt": "символ, знак",
+   "preteach": true
+  },
+  {
+   "word": "deciduous",
+   "def_en": "losing its leaves every year",
+   "synonym": "",
+   "ru": "листопадный",
+   "ru_alt": "сбрасывающий листву",
+   "preteach": true
+  },
+  {
+   "word": "irrigate",
+   "def_en": "to supply land with water",
+   "synonym": "water",
+   "ru": "орошать",
+   "ru_alt": "поливать, снабжать водой",
+   "preteach": false
+  },
+  {
+   "word": "waterlogged",
+   "def_en": "so full of water that it cannot drain",
+   "synonym": "saturated",
+   "ru": "заболоченный",
+   "ru_alt": "пропитанный водой",
+   "preteach": false
+  },
+  {
+   "word": "susceptible",
+   "def_en": "easily harmed or affected",
+   "synonym": "vulnerable",
+   "ru": "восприимчивый, уязвимый",
+   "ru_alt": "подверженный",
+   "preteach": false
+  },
+  {
+   "word": "uproot",
+   "def_en": "to pull a plant out of the ground",
+   "synonym": "pull up",
+   "ru": "вырвать с корнем",
+   "ru_alt": "выворачивать",
+   "preteach": false
+  },
+  {
+   "word": "regeneration",
+   "def_en": "the regrowth of something",
+   "synonym": "renewal",
+   "ru": "возобновление, восстановление",
+   "ru_alt": "возрождение",
+   "preteach": false
+  },
+  {
+   "word": "succumb",
+   "def_en": "to give in or be destroyed by something",
+   "synonym": "give in",
+   "ru": "не устоять, поддаться",
+   "ru_alt": "погибнуть, сдаться",
+   "preteach": false
+  },
+  {
+   "word": "germination",
+   "def_en": "the start of growth of a seed",
+   "synonym": "sprouting",
+   "ru": "прорастание",
+   "ru_alt": "всхожесть, начало роста",
+   "preteach": false
+  },
+  {
+   "word": "dispersal",
+   "def_en": "spreading over a wide area",
+   "synonym": "spreading",
+   "ru": "распространение, рассеивание",
+   "ru_alt": "расселение",
+   "preteach": false
+  },
+  {
+   "word": "swift",
+   "def_en": "happening quickly",
+   "synonym": "rapid",
+   "ru": "быстрый",
+   "ru_alt": "стремительный",
+   "preteach": false
+  },
+  {
+   "word": "solitary",
+   "def_en": "alone; on its own",
+   "synonym": "lone",
+   "ru": "одинокий, одиночный",
+   "ru_alt": "стоящий отдельно",
+   "preteach": false
+  },
+  {
+   "word": "compile",
+   "def_en": "to collect information into a list or book",
+   "synonym": "gather",
+   "ru": "составлять",
+   "ru_alt": "собрать воедино",
+   "preteach": false
+  },
+  {
+   "word": "logging",
+   "def_en": "cutting down trees for wood",
+   "synonym": "timber cutting",
+   "ru": "вырубка леса",
+   "ru_alt": "лесозаготовка",
+   "preteach": false
+  },
+  {
+   "word": "undergrowth",
+   "def_en": "plants growing under tall trees",
+   "synonym": "",
+   "ru": "подлесок",
+   "ru_alt": "кустарник под деревьями",
+   "preteach": false
+  },
+  {
+   "word": "endangered",
+   "def_en": "at risk of dying out",
+   "synonym": "threatened",
+   "ru": "находящийся под угрозой исчезновения",
+   "ru_alt": "редкий, исчезающий",
+   "preteach": false
+  },
+  {
+   "word": "suppresses",
+   "def_en": "stops something from growing or happening",
+   "synonym": "restrains",
+   "ru": "подавляет",
+   "ru_alt": "сдерживает",
+   "preteach": false
+  },
+  {
+   "word": "cyclones",
+   "def_en": "violent tropical storms with strong winds",
+   "synonym": "hurricanes",
+   "ru": "циклоны",
+   "ru_alt": "сильные бури",
+   "preteach": false
+  },
+  {
+   "word": "populous",
+   "def_en": "having a large population",
+   "synonym": "crowded",
+   "ru": "густонаселённый",
+   "ru_alt": "многолюдный",
+   "preteach": false
+  },
+  {
+   "word": "habitat",
+   "def_en": "the natural home of a plant or animal",
+   "synonym": "environment",
+   "ru": "среда обитания",
+   "ru_alt": "естественная среда",
+   "preteach": false
+  },
+  {
+   "word": "botanists",
+   "def_en": "scientists who study plants",
+   "synonym": "",
+   "ru": "ботаники",
+   "ru_alt": "учёные-растениеведы",
+   "preteach": false
+  },
+  {
+   "word": "coordinated",
+   "def_en": "organised so that everyone works together",
+   "synonym": "organised",
+   "ru": "скоординированный",
+   "ru_alt": "согласованный",
+   "preteach": false
+  }
+ ],
+ "test-4-p2": [
+  {
+   "word": "reciprocity",
+   "def_en": "a fair exchange where both sides give and receive",
+   "synonym": "mutual exchange",
+   "ru": "взаимность, взаимный обмен",
+   "ru_alt": "обмен услугами",
+   "preteach": true
+  },
+  {
+   "word": "innate",
+   "def_en": "present from birth",
+   "synonym": "inborn",
+   "ru": "врождённый",
+   "ru_alt": "природный, от рождения",
+   "preteach": true
+  },
+  {
+   "word": "accrue",
+   "def_en": "to build up gradually",
+   "synonym": "accumulate",
+   "ru": "накапливаться",
+   "ru_alt": "копиться",
+   "preteach": true
+  },
+  {
+   "word": "barter",
+   "def_en": "to exchange goods without using money",
+   "synonym": "swap",
+   "ru": "бартер, меняться товарами",
+   "ru_alt": "натуральный обмен",
+   "preteach": true
+  },
+  {
+   "word": "subsistence",
+   "def_en": "having just enough to stay alive",
+   "synonym": "survival",
+   "ru": "выживание, прожиточный минимум",
+   "ru_alt": "жизнь на грани нужды",
+   "preteach": true
+  },
+  {
+   "word": "intangible",
+   "def_en": "not physical; cannot be touched",
+   "synonym": "abstract",
+   "ru": "нематериальный",
+   "ru_alt": "неосязаемый",
+   "preteach": false
+  },
+  {
+   "word": "esteem",
+   "def_en": "respect and admiration",
+   "synonym": "respect",
+   "ru": "уважение",
+   "ru_alt": "почтение",
+   "preteach": false
+  },
+  {
+   "word": "intricate",
+   "def_en": "very detailed and complicated",
+   "synonym": "elaborate",
+   "ru": "замысловатый, сложный",
+   "ru_alt": "тонкий, затейливый",
+   "preteach": false
+  },
+  {
+   "word": "ochre",
+   "def_en": "a natural red or yellow earth used as colour",
+   "synonym": "pigment",
+   "ru": "охра",
+   "ru_alt": "охристая глина",
+   "preteach": false
+  },
+  {
+   "word": "predominantly",
+   "def_en": "mainly",
+   "synonym": "mostly",
+   "ru": "преимущественно",
+   "ru_alt": "в основном",
+   "preteach": false
+  },
+  {
+   "word": "clusters",
+   "def_en": "groups of things close together",
+   "synonym": "groups",
+   "ru": "скопления, группы",
+   "ru_alt": "кучки, группы",
+   "preteach": false
+  },
+  {
+   "word": "adornment",
+   "def_en": "something used for decoration",
+   "synonym": "decoration",
+   "ru": "украшение",
+   "ru_alt": "декор",
+   "preteach": false
+  },
+  {
+   "word": "egalitarian",
+   "def_en": "based on the idea that all people are equal",
+   "synonym": "equal",
+   "ru": "эгалитарный, равноправный",
+   "ru_alt": "уравнительный",
+   "preteach": false
+  },
+  {
+   "word": "prestige",
+   "def_en": "high status and respect",
+   "synonym": "status",
+   "ru": "престиж",
+   "ru_alt": "авторитет, высокий статус",
+   "preteach": false
+  },
+  {
+   "word": "elusive",
+   "def_en": "hard to find or catch",
+   "synonym": "slippery",
+   "ru": "неуловимый",
+   "ru_alt": "ускользающий",
+   "preteach": false
+  },
+  {
+   "word": "spiral",
+   "def_en": "to rise or increase quickly and out of control",
+   "synonym": "escalate",
+   "ru": "резко расти, раскручиваться",
+   "ru_alt": "стремительно расти",
+   "preteach": false
+  },
+  {
+   "word": "hierarchical",
+   "def_en": "arranged in ranks from high to low",
+   "synonym": "ranked",
+   "ru": "иерархический",
+   "ru_alt": "многоуровневый",
+   "preteach": false
+  },
+  {
+   "word": "exclusive",
+   "def_en": "available only to a few people",
+   "synonym": "elite",
+   "ru": "эксклюзивный",
+   "ru_alt": "избранный, элитный",
+   "preteach": false
+  },
+  {
+   "word": "commerce",
+   "def_en": "the buying and selling of goods",
+   "synonym": "trade",
+   "ru": "торговля",
+   "ru_alt": "коммерция",
+   "preteach": false
+  },
+  {
+   "word": "anthropologists",
+   "def_en": "scientists who study human societies",
+   "synonym": "",
+   "ru": "антропологи",
+   "ru_alt": "учёные, изучающие человека",
+   "preteach": false
+  },
+  {
+   "word": "hunter-gatherers",
+   "def_en": "people who live by hunting and collecting wild food",
+   "synonym": "",
+   "ru": "охотники-собиратели",
+   "ru_alt": "древние добытчики пищи",
+   "preteach": false
+  },
+  {
+   "word": "archaeological",
+   "def_en": "relating to the study of ancient remains",
+   "synonym": "",
+   "ru": "археологический",
+   "ru_alt": "связанный с раскопками",
+   "preteach": false
+  },
+  {
+   "word": "pigment",
+   "def_en": "a substance that gives colour",
+   "synonym": "dye",
+   "ru": "пигмент",
+   "ru_alt": "краска",
+   "preteach": false
+  },
+  {
+   "word": "quarries",
+   "def_en": "places where stone or clay is dug from the ground",
+   "synonym": "pits",
+   "ru": "карьеры",
+   "ru_alt": "места добычи камня",
+   "preteach": false
+  },
+  {
+   "word": "fascination",
+   "def_en": "a strong attraction or interest",
+   "synonym": "interest",
+   "ru": "очарование, интерес",
+   "ru_alt": "притягательность",
+   "preteach": false
+  }
+ ],
+ "test-4-p3": [
+  {
+   "word": "decay",
+   "def_en": "gradual destruction or rotting",
+   "synonym": "rot",
+   "ru": "разрушение, упадок",
+   "ru_alt": "гниение, ветшание",
+   "preteach": true
+  },
+  {
+   "word": "sophisticated",
+   "def_en": "complex and advanced",
+   "synonym": "advanced",
+   "ru": "сложный, изощрённый",
+   "ru_alt": "утончённый",
+   "preteach": true
+  },
+  {
+   "word": "ethos",
+   "def_en": "the main beliefs and ideas of a group",
+   "synonym": "philosophy",
+   "ru": "дух, этос",
+   "ru_alt": "основной принцип",
+   "preteach": true
+  },
+  {
+   "word": "ornament",
+   "def_en": "decoration",
+   "synonym": "decoration",
+   "ru": "украшение",
+   "ru_alt": "декор",
+   "preteach": true
+  },
+  {
+   "word": "devotion",
+   "def_en": "deep religious or loving commitment",
+   "synonym": "dedication",
+   "ru": "набожность, преданность",
+   "ru_alt": "вера, привязанность",
+   "preteach": true
+  },
+  {
+   "word": "battlements",
+   "def_en": "walls with openings along the top of a castle",
+   "synonym": "parapets",
+   "ru": "зубчатые стены",
+   "ru_alt": "крепостные зубцы",
+   "preteach": false
+  },
+  {
+   "word": "turrets",
+   "def_en": "small towers on a castle",
+   "synonym": "",
+   "ru": "башенки",
+   "ru_alt": "небольшие башни",
+   "preteach": false
+  },
+  {
+   "word": "grandeur",
+   "def_en": "impressive size and beauty",
+   "synonym": "splendour",
+   "ru": "величие",
+   "ru_alt": "великолепие",
+   "preteach": false
+  },
+  {
+   "word": "symmetrical",
+   "def_en": "having two matching halves",
+   "synonym": "balanced",
+   "ru": "симметричный",
+   "ru_alt": "зеркально-ровный",
+   "preteach": false
+  },
+  {
+   "word": "isolation",
+   "def_en": "being separate from others",
+   "synonym": "separation",
+   "ru": "изоляция",
+   "ru_alt": "обособленность",
+   "preteach": false
+  },
+  {
+   "word": "bizarre",
+   "def_en": "very strange",
+   "synonym": "odd",
+   "ru": "странный, причудливый",
+   "ru_alt": "чудной",
+   "preteach": false
+  },
+  {
+   "word": "flurry",
+   "def_en": "a sudden burst of activity",
+   "synonym": "burst",
+   "ru": "всплеск активности",
+   "ru_alt": "оживление",
+   "preteach": false
+  },
+  {
+   "word": "exile",
+   "def_en": "being forced to live outside your own country",
+   "synonym": "banishment",
+   "ru": "изгнание",
+   "ru_alt": "жизнь в изгнании",
+   "preteach": false
+  },
+  {
+   "word": "statecraft",
+   "def_en": "the skill of running a country",
+   "synonym": "",
+   "ru": "искусство управления государством",
+   "ru_alt": "политическое мастерство",
+   "preteach": false
+  },
+  {
+   "word": "concerted",
+   "def_en": "done together with determination",
+   "synonym": "joint",
+   "ru": "согласованный, совместный",
+   "ru_alt": "дружный, целенаправленный",
+   "preteach": false
+  },
+  {
+   "word": "staid",
+   "def_en": "serious and old-fashioned",
+   "synonym": "conservative",
+   "ru": "степенный, консервативный",
+   "ru_alt": "чопорный",
+   "preteach": false
+  },
+  {
+   "word": "outmoded",
+   "def_en": "no longer fashionable or useful",
+   "synonym": "outdated",
+   "ru": "устаревший",
+   "ru_alt": "вышедший из моды",
+   "preteach": false
+  },
+  {
+   "word": "prefabricated",
+   "def_en": "made in sections in a factory and then put together",
+   "synonym": "",
+   "ru": "сборный, заводского изготовления",
+   "ru_alt": "готовые блоки",
+   "preteach": false
+  },
+  {
+   "word": "patrons",
+   "def_en": "people who support artists or the arts with money",
+   "synonym": "sponsors",
+   "ru": "покровители, меценаты",
+   "ru_alt": "благотворители",
+   "preteach": false
+  },
+  {
+   "word": "cladding",
+   "def_en": "an outer covering on a building",
+   "synonym": "covering",
+   "ru": "облицовка",
+   "ru_alt": "внешняя обшивка",
+   "preteach": false
+  },
+  {
+   "word": "persisted",
+   "def_en": "continued to exist",
+   "synonym": "continued",
+   "ru": "сохранялся",
+   "ru_alt": "продолжал существовать",
+   "preteach": false
+  },
+  {
+   "word": "medieval",
+   "def_en": "relating to the Middle Ages",
+   "synonym": "",
+   "ru": "средневековый",
+   "ru_alt": "относящийся к Средним векам",
+   "preteach": false
+  },
+  {
+   "word": "commodity",
+   "def_en": "a thing that is bought and sold",
+   "synonym": "product",
+   "ru": "товар",
+   "ru_alt": "ценный предмет",
+   "preteach": false
+  },
+  {
+   "word": "mainstream",
+   "def_en": "the ideas and styles accepted by most people",
+   "synonym": "common trend",
+   "ru": "основное течение",
+   "ru_alt": "главное направление",
+   "preteach": false
+  },
+  {
+   "word": "dehumanising",
+   "def_en": "taking away human qualities",
+   "synonym": "",
+   "ru": "обесчеловечивающий",
+   "ru_alt": "лишающий человечности",
+   "preteach": false
+  }
+ ],
+ "test-5-p1": [
+  {
+   "word": "formative",
+   "def_en": "important for the development of a person",
+   "synonym": "shaping",
+   "ru": "формирующий, важный для становления",
+   "ru_alt": "определяющий",
+   "preteach": true
+  },
+  {
+   "word": "advocate",
+   "def_en": "a person who publicly supports an idea",
+   "synonym": "supporter",
+   "ru": "сторонник, защитник",
+   "ru_alt": "заступник",
+   "preteach": true
+  },
+  {
+   "word": "apprentice",
+   "def_en": "a person learning a trade from a skilled worker",
+   "synonym": "trainee",
+   "ru": "ученик, подмастерье",
+   "ru_alt": "начинающий ремесленник",
+   "preteach": true
+  },
+  {
+   "word": "reproductions",
+   "def_en": "copies of works of art",
+   "synonym": "copies",
+   "ru": "репродукции",
+   "ru_alt": "копии картин",
+   "preteach": true
+  },
+  {
+   "word": "hazy",
+   "def_en": "not clear; misty",
+   "synonym": "misty",
+   "ru": "туманный, дымчатый",
+   "ru_alt": "размытый",
+   "preteach": true
+  },
+  {
+   "word": "elite",
+   "def_en": "the most powerful or privileged group in a society",
+   "synonym": "upper class",
+   "ru": "элита",
+   "ru_alt": "высший слой общества",
+   "preteach": false
+  },
+  {
+   "word": "greed",
+   "def_en": "a strong wish for more money or things than you need",
+   "synonym": "avarice",
+   "ru": "жадность",
+   "ru_alt": "алчность",
+   "preteach": false
+  },
+  {
+   "word": "seizure",
+   "def_en": "the act of taking something by force or by law",
+   "synonym": "confiscation",
+   "ru": "захват, изъятие",
+   "ru_alt": "отъём",
+   "preteach": false
+  },
+  {
+   "word": "wilderness",
+   "def_en": "wild land where people do not live",
+   "synonym": "wild",
+   "ru": "дикая местность",
+   "ru_alt": "нетронутая природа",
+   "preteach": false
+  },
+  {
+   "word": "preservation",
+   "def_en": "protecting something from harm or loss",
+   "synonym": "conservation",
+   "ru": "сохранение",
+   "ru_alt": "защита",
+   "preteach": false
+  },
+  {
+   "word": "bizarre",
+   "def_en": "very strange",
+   "synonym": "odd",
+   "ru": "странный, причудливый",
+   "ru_alt": "необычный",
+   "preteach": false
+  },
+  {
+   "word": "flourishing",
+   "def_en": "growing and succeeding",
+   "synonym": "thriving",
+   "ru": "процветающий",
+   "ru_alt": "расцветающий",
+   "preteach": false
+  },
+  {
+   "word": "depicts",
+   "def_en": "shows in a picture or in words",
+   "synonym": "portrays",
+   "ru": "изображает",
+   "ru_alt": "рисует, показывает",
+   "preteach": false
+  },
+  {
+   "word": "fertile",
+   "def_en": "good for growing crops",
+   "synonym": "productive",
+   "ru": "плодородный",
+   "ru_alt": "урожайный",
+   "preteach": false
+  },
+  {
+   "word": "bland",
+   "def_en": "lacking interest or character",
+   "synonym": "dull",
+   "ru": "пресный, невыразительный",
+   "ru_alt": "скучный",
+   "preteach": false
+  },
+  {
+   "word": "rugged",
+   "def_en": "rough and wild",
+   "synonym": "rough",
+   "ru": "суровый, неровный",
+   "ru_alt": "неприступный",
+   "preteach": false
+  },
+  {
+   "word": "mourned",
+   "def_en": "felt or showed great sadness for someone who died",
+   "synonym": "grieved",
+   "ru": "оплакивали",
+   "ru_alt": "скорбели",
+   "preteach": false
+  },
+  {
+   "word": "cultivated",
+   "def_en": "used for growing crops",
+   "synonym": "farmed",
+   "ru": "возделанный, обработанный",
+   "ru_alt": "засеянный",
+   "preteach": false
+  },
+  {
+   "word": "ruins",
+   "def_en": "the remains of old buildings",
+   "synonym": "remains",
+   "ru": "руины",
+   "ru_alt": "развалины",
+   "preteach": false
+  },
+  {
+   "word": "landscape",
+   "def_en": "a view of countryside; a painting of it",
+   "synonym": "scenery",
+   "ru": "пейзаж",
+   "ru_alt": "вид местности",
+   "preteach": false
+  },
+  {
+   "word": "sketched",
+   "def_en": "drew quickly and roughly",
+   "synonym": "drew",
+   "ru": "делал наброски",
+   "ru_alt": "зарисовывал",
+   "preteach": false
+  },
+  {
+   "word": "chaos",
+   "def_en": "complete disorder",
+   "synonym": "disorder",
+   "ru": "хаос",
+   "ru_alt": "беспорядок",
+   "preteach": false
+  },
+  {
+   "word": "dedication",
+   "def_en": "strong commitment to a purpose",
+   "synonym": "devotion",
+   "ru": "преданность делу",
+   "ru_alt": "самоотдача",
+   "preteach": false
+  },
+  {
+   "word": "vegetation",
+   "def_en": "plants in general",
+   "synonym": "plant life",
+   "ru": "растительность",
+   "ru_alt": "зелень",
+   "preteach": false
+  },
+  {
+   "word": "self-taught",
+   "def_en": "having learned without a teacher",
+   "synonym": "",
+   "ru": "самоучка",
+   "ru_alt": "обучившийся самостоятельно",
+   "preteach": false
+  }
+ ],
+ "test-5-p2": [
+  {
+   "word": "relentless",
+   "def_en": "never stopping",
+   "synonym": "unceasing",
+   "ru": "неустанный, непрерывный",
+   "ru_alt": "безостановочный",
+   "preteach": true
+  },
+  {
+   "word": "intrigued",
+   "def_en": "very interested and curious",
+   "synonym": "fascinated",
+   "ru": "заинтригованный",
+   "ru_alt": "увлечённый",
+   "preteach": true
+  },
+  {
+   "word": "cease",
+   "def_en": "to stop",
+   "synonym": "stop",
+   "ru": "прекращать",
+   "ru_alt": "перестать",
+   "preteach": true
+  },
+  {
+   "word": "astonishment",
+   "def_en": "great surprise",
+   "synonym": "amazement",
+   "ru": "изумление",
+   "ru_alt": "удивление",
+   "preteach": true
+  },
+  {
+   "word": "synchronization",
+   "def_en": "happening at the same time or in harmony",
+   "synonym": "coordination",
+   "ru": "синхронизация",
+   "ru_alt": "согласованность",
+   "preteach": true
+  },
+  {
+   "word": "manifestations",
+   "def_en": "clear signs that something exists",
+   "synonym": "signs",
+   "ru": "проявления",
+   "ru_alt": "признаки",
+   "preteach": false
+  },
+  {
+   "word": "pseudoscience",
+   "def_en": "a belief that claims to be scientific but is not",
+   "synonym": "",
+   "ru": "псевдонаука",
+   "ru_alt": "ненаучная теория",
+   "preteach": false
+  },
+  {
+   "word": "blunders",
+   "def_en": "stupid or careless mistakes",
+   "synonym": "errors",
+   "ru": "грубые ошибки",
+   "ru_alt": "промахи",
+   "preteach": false
+  },
+  {
+   "word": "flukes",
+   "def_en": "lucky or unlikely accidents",
+   "synonym": "chance events",
+   "ru": "случайности, везение",
+   "ru_alt": "совпадения",
+   "preteach": false
+  },
+  {
+   "word": "pioneering",
+   "def_en": "introducing new ideas for the first time",
+   "synonym": "groundbreaking",
+   "ru": "новаторский, пионерский",
+   "ru_alt": "первопроходческий",
+   "preteach": false
+  },
+  {
+   "word": "deprived",
+   "def_en": "prevented from having something",
+   "synonym": "denied",
+   "ru": "лишённый",
+   "ru_alt": "обделённый",
+   "preteach": false
+  },
+  {
+   "word": "cues",
+   "def_en": "signals that tell you what to do",
+   "synonym": "signals",
+   "ru": "сигналы, подсказки",
+   "ru_alt": "знаки",
+   "preteach": false
+  },
+  {
+   "word": "circadian",
+   "def_en": "repeating roughly every 24 hours",
+   "synonym": "daily",
+   "ru": "циркадный, суточный",
+   "ru_alt": "повторяющийся каждые сутки",
+   "preteach": false
+  },
+  {
+   "word": "triggers",
+   "def_en": "causes something to start",
+   "synonym": "causes",
+   "ru": "запускает, вызывает",
+   "ru_alt": "включает",
+   "preteach": false
+  },
+  {
+   "word": "regulates",
+   "def_en": "controls",
+   "synonym": "controls",
+   "ru": "регулирует",
+   "ru_alt": "управляет",
+   "preteach": false
+  },
+  {
+   "word": "culminate",
+   "def_en": "to reach a final result or high point",
+   "synonym": "end in",
+   "ru": "завершаться, достигать кульминации",
+   "ru_alt": "привести в итоге к",
+   "preteach": false
+  },
+  {
+   "word": "therapeutics",
+   "def_en": "treatments for illness",
+   "synonym": "treatments",
+   "ru": "терапевтические средства",
+   "ru_alt": "лечебные средства",
+   "preteach": false
+  },
+  {
+   "word": "myriad",
+   "def_en": "a very large number of things",
+   "synonym": "countless",
+   "ru": "множество, мириады",
+   "ru_alt": "огромное число",
+   "preteach": false
+  },
+  {
+   "word": "ebbed",
+   "def_en": "decreased or flowed away",
+   "synonym": "receded",
+   "ru": "убывали, спадали",
+   "ru_alt": "шли на спад",
+   "preteach": false
+  },
+  {
+   "word": "subsequent",
+   "def_en": "coming after something else",
+   "synonym": "following",
+   "ru": "последующий",
+   "ru_alt": "дальнейший",
+   "preteach": false
+  },
+  {
+   "word": "bidding",
+   "def_en": "orders or commands",
+   "synonym": "commands",
+   "ru": "веление, воля",
+   "ru_alt": "приказания",
+   "preteach": false
+  },
+  {
+   "word": "alertness",
+   "def_en": "being awake and ready to react",
+   "synonym": "wakefulness",
+   "ru": "бдительность",
+   "ru_alt": "внимательность",
+   "preteach": false
+  },
+  {
+   "word": "comprehensive",
+   "def_en": "complete and including everything",
+   "synonym": "thorough",
+   "ru": "всесторонний",
+   "ru_alt": "исчерпывающий",
+   "preteach": false
+  },
+  {
+   "word": "explicable",
+   "def_en": "able to be explained",
+   "synonym": "explainable",
+   "ru": "объяснимый",
+   "ru_alt": "поддающийся объяснению",
+   "preteach": false
+  },
+  {
+   "word": "coping",
+   "def_en": "dealing successfully with a difficulty",
+   "synonym": "managing",
+   "ru": "справляться",
+   "ru_alt": "совладать",
+   "preteach": false
+  }
+ ],
+ "test-5-p3": [
+  {
+   "word": "culinary",
+   "def_en": "connected with cooking",
+   "synonym": "cooking",
+   "ru": "кулинарный",
+   "ru_alt": "поварской",
+   "preteach": true
+  },
+  {
+   "word": "ingrained",
+   "def_en": "firmly fixed and hard to change",
+   "synonym": "deep-rooted",
+   "ru": "укоренившийся",
+   "ru_alt": "въевшийся",
+   "preteach": true
+  },
+  {
+   "word": "minuscule",
+   "def_en": "extremely small",
+   "synonym": "tiny",
+   "ru": "крошечный",
+   "ru_alt": "мельчайший",
+   "preteach": true
+  },
+  {
+   "word": "empirically",
+   "def_en": "based on experiments and observation",
+   "synonym": "experimentally",
+   "ru": "эмпирически, на опыте",
+   "ru_alt": "опытным путём",
+   "preteach": true
+  },
+  {
+   "word": "absurd",
+   "def_en": "silly and not logical",
+   "synonym": "ridiculous",
+   "ru": "абсурдный",
+   "ru_alt": "нелепый",
+   "preteach": true
+  },
+  {
+   "word": "contends",
+   "def_en": "argues or claims that something is true",
+   "synonym": "claims",
+   "ru": "утверждает",
+   "ru_alt": "настаивает",
+   "preteach": false
+  },
+  {
+   "word": "peer review",
+   "def_en": "checking of a scientist's work by other experts",
+   "synonym": "",
+   "ru": "рецензирование коллегами",
+   "ru_alt": "экспертная оценка",
+   "preteach": false
+  },
+  {
+   "word": "proprietor",
+   "def_en": "the owner of a business",
+   "synonym": "owner",
+   "ru": "владелец",
+   "ru_alt": "хозяин",
+   "preteach": false
+  },
+  {
+   "word": "bestowed",
+   "def_en": "gave an honour or prize formally",
+   "synonym": "awarded",
+   "ru": "даровал, присудил",
+   "ru_alt": "вручил",
+   "preteach": false
+  },
+  {
+   "word": "harness",
+   "def_en": "to control and use something for a purpose",
+   "synonym": "exploit",
+   "ru": "использовать, обуздать",
+   "ru_alt": "поставить на службу",
+   "preteach": false
+  },
+  {
+   "word": "inquisitive",
+   "def_en": "curious and interested in learning",
+   "synonym": "curious",
+   "ru": "любознательный",
+   "ru_alt": "пытливый",
+   "preteach": false
+  },
+  {
+   "word": "permeates",
+   "def_en": "spreads through every part of something",
+   "synonym": "pervades",
+   "ru": "пронизывает",
+   "ru_alt": "проникает повсюду",
+   "preteach": false
+  },
+  {
+   "word": "coined",
+   "def_en": "invented a new word or phrase",
+   "synonym": "invented",
+   "ru": "придумал (слово)",
+   "ru_alt": "ввёл в обиход",
+   "preteach": false
+  },
+  {
+   "word": "quipped",
+   "def_en": "made a clever, funny remark",
+   "synonym": "joked",
+   "ru": "остроумно заметил",
+   "ru_alt": "сострил",
+   "preteach": false
+  },
+  {
+   "word": "compartmentalised",
+   "def_en": "divided into separate sections",
+   "synonym": "separated",
+   "ru": "разделённый на отсеки",
+   "ru_alt": "изолированный друг от друга",
+   "preteach": false
+  },
+  {
+   "word": "additives",
+   "def_en": "substances added to food",
+   "synonym": "",
+   "ru": "пищевые добавки",
+   "ru_alt": "добавки к еде",
+   "preteach": false
+  },
+  {
+   "word": "solidify",
+   "def_en": "to become hard or solid",
+   "synonym": "harden",
+   "ru": "затвердевать",
+   "ru_alt": "становиться твёрдым",
+   "preteach": false
+  },
+  {
+   "word": "confidentiality",
+   "def_en": "keeping information secret",
+   "synonym": "secrecy",
+   "ru": "конфиденциальность",
+   "ru_alt": "тайна, закрытость",
+   "preteach": false
+  },
+  {
+   "word": "humble",
+   "def_en": "simple; not special or grand",
+   "synonym": "modest",
+   "ru": "простой, скромный",
+   "ru_alt": "непритязательный",
+   "preteach": false
+  },
+  {
+   "word": "collaborating",
+   "def_en": "working together with others",
+   "synonym": "cooperating",
+   "ru": "сотрудничающие",
+   "ru_alt": "работающие вместе",
+   "preteach": false
+  },
+  {
+   "word": "moisture",
+   "def_en": "a small amount of liquid",
+   "synonym": "wetness",
+   "ru": "влага",
+   "ru_alt": "сок, жидкость",
+   "preteach": false
+  },
+  {
+   "word": "disprove",
+   "def_en": "to show that something is false",
+   "synonym": "refute",
+   "ru": "опровергать",
+   "ru_alt": "доказывать ошибочность",
+   "preteach": false
+  },
+  {
+   "word": "tackling",
+   "def_en": "trying to deal with a problem",
+   "synonym": "addressing",
+   "ru": "берясь за, решая",
+   "ru_alt": "разбирая",
+   "preteach": false
+  },
+  {
+   "word": "innovative",
+   "def_en": "new, original and creative",
+   "synonym": "original",
+   "ru": "новаторский",
+   "ru_alt": "оригинальный",
+   "preteach": false
+  },
+  {
+   "word": "texture",
+   "def_en": "the way something feels or looks on the surface",
+   "synonym": "feel",
+   "ru": "текстура",
+   "ru_alt": "структура на ощупь",
+   "preteach": false
+  }
+ ],
+ "test-28-p1": [
+  {
+   "word": "seafaring",
+   "def_en": "travelling by sea",
+   "synonym": "maritime",
+   "ru": "мореплавание",
+   "ru_alt": "морское дело",
+   "preteach": true
+  },
+  {
+   "word": "maritime",
+   "def_en": "connected with the sea",
+   "synonym": "naval",
+   "ru": "морской",
+   "ru_alt": "приморский",
+   "preteach": true
+  },
+  {
+   "word": "plying",
+   "def_en": "travelling regularly along a route",
+   "synonym": "shuttling",
+   "ru": "курсируя",
+   "ru_alt": "ходя рейсами",
+   "preteach": true
+  },
+  {
+   "word": "prosperous",
+   "def_en": "rich and successful",
+   "synonym": "wealthy",
+   "ru": "процветающий",
+   "ru_alt": "преуспевающий",
+   "preteach": true
+  },
+  {
+   "word": "ally",
+   "def_en": "a partner who helps you",
+   "synonym": "partner",
+   "ru": "союзник",
+   "ru_alt": "партнёр",
+   "preteach": true
+  },
+  {
+   "word": "timber",
+   "def_en": "wood used for building",
+   "synonym": "wood",
+   "ru": "древесина, лес",
+   "ru_alt": "строевой лес",
+   "preteach": false
+  },
+  {
+   "word": "vessels",
+   "def_en": "ships or large boats",
+   "synonym": "ships",
+   "ru": "суда, корабли",
+   "ru_alt": "корабли",
+   "preteach": false
+  },
+  {
+   "word": "ivory",
+   "def_en": "hard white material from elephants' tusks",
+   "synonym": "",
+   "ru": "слоновая кость",
+   "ru_alt": "бивни слона",
+   "preteach": false
+  },
+  {
+   "word": "dye",
+   "def_en": "a substance used to change the colour of cloth",
+   "synonym": "colouring",
+   "ru": "краситель",
+   "ru_alt": "красящее вещество",
+   "preteach": false
+  },
+  {
+   "word": "linen",
+   "def_en": "cloth made from the flax plant",
+   "synonym": "",
+   "ru": "лён, льняная ткань",
+   "ru_alt": "ткань изо льна",
+   "preteach": false
+  },
+  {
+   "word": "middlemen",
+   "def_en": "people who buy and sell between others",
+   "synonym": "intermediaries",
+   "ru": "посредники",
+   "ru_alt": "торговые агенты",
+   "preteach": false
+  },
+  {
+   "word": "commission",
+   "def_en": "money paid to someone for arranging a sale",
+   "synonym": "fee",
+   "ru": "комиссионные",
+   "ru_alt": "процент с продажи",
+   "preteach": false
+  },
+  {
+   "word": "stylus",
+   "def_en": "a pointed tool for writing on clay",
+   "synonym": "",
+   "ru": "стилус",
+   "ru_alt": "палочка для письма",
+   "preteach": false
+  },
+  {
+   "word": "colonies",
+   "def_en": "settlements established in another land",
+   "synonym": "settlements",
+   "ru": "колонии",
+   "ru_alt": "поселения",
+   "preteach": false
+  },
+  {
+   "word": "promontory",
+   "def_en": "a high point of land that goes out into the sea",
+   "synonym": "headland",
+   "ru": "мыс",
+   "ru_alt": "выступ суши",
+   "preteach": false
+  },
+  {
+   "word": "disrupted",
+   "def_en": "interrupted or disturbed",
+   "synonym": "disturbed",
+   "ru": "нарушил",
+   "ru_alt": "расстроил",
+   "preteach": false
+  },
+  {
+   "word": "succession",
+   "def_en": "a series of things coming one after another",
+   "synonym": "sequence",
+   "ru": "череда, последовательность",
+   "ru_alt": "смена",
+   "preteach": false
+  },
+  {
+   "word": "imperial",
+   "def_en": "relating to an empire",
+   "synonym": "",
+   "ru": "имперский",
+   "ru_alt": "принадлежащий империи",
+   "preteach": false
+  },
+  {
+   "word": "merging",
+   "def_en": "combining with something else",
+   "synonym": "blending",
+   "ru": "слияние, сливаясь",
+   "ru_alt": "растворяясь",
+   "preteach": false
+  },
+  {
+   "word": "craftsmen",
+   "def_en": "skilled workers who make things by hand",
+   "synonym": "artisans",
+   "ru": "ремесленники",
+   "ru_alt": "мастера",
+   "preteach": false
+  },
+  {
+   "word": "inhabited",
+   "def_en": "lived in a place",
+   "synonym": "lived in",
+   "ru": "населяли",
+   "ru_alt": "жили в",
+   "preteach": false
+  },
+  {
+   "word": "narrative",
+   "def_en": "a story or an account of events",
+   "synonym": "account",
+   "ru": "повествование",
+   "ru_alt": "рассказ",
+   "preteach": false
+  },
+  {
+   "word": "expeditions",
+   "def_en": "long journeys made for a purpose",
+   "synonym": "voyages",
+   "ru": "экспедиции",
+   "ru_alt": "дальние плавания",
+   "preteach": false
+  },
+  {
+   "word": "millennium",
+   "def_en": "a period of 1,000 years",
+   "synonym": "",
+   "ru": "тысячелетие",
+   "ru_alt": "тысяча лет",
+   "preteach": false
+  },
+  {
+   "word": "expansion",
+   "def_en": "growth in size or area",
+   "synonym": "growth",
+   "ru": "расширение",
+   "ru_alt": "рост",
+   "preteach": false
+  }
+ ],
+ "test-28-p2": [
+  {
+   "word": "advent",
+   "def_en": "the arrival of something important",
+   "synonym": "arrival",
+   "ru": "появление, наступление",
+   "ru_alt": "приход",
+   "preteach": true
+  },
+  {
+   "word": "turmoil",
+   "def_en": "a state of confusion and trouble",
+   "synonym": "chaos",
+   "ru": "смятение, потрясения",
+   "ru_alt": "неразбериха",
+   "preteach": true
+  },
+  {
+   "word": "dexterity",
+   "def_en": "skill in using the hands or in moving",
+   "synonym": "skill",
+   "ru": "ловкость",
+   "ru_alt": "сноровка",
+   "preteach": true
+  },
+  {
+   "word": "encased",
+   "def_en": "covered completely",
+   "synonym": "enclosed",
+   "ru": "заключённый, помещённый",
+   "ru_alt": "упакованный",
+   "preteach": true
+  },
+  {
+   "word": "oligopoly",
+   "def_en": "a market controlled by a small number of companies",
+   "synonym": "",
+   "ru": "олигополия",
+   "ru_alt": "рынок нескольких компаний",
+   "preteach": true
+  },
+  {
+   "word": "infamous",
+   "def_en": "famous for something bad",
+   "synonym": "notorious",
+   "ru": "печально известный",
+   "ru_alt": "с дурной славой",
+   "preteach": false
+  },
+  {
+   "word": "moguls",
+   "def_en": "very powerful and important business people",
+   "synonym": "tycoons",
+   "ru": "магнаты",
+   "ru_alt": "крупные боссы",
+   "preteach": false
+  },
+  {
+   "word": "hinges",
+   "def_en": "depends completely on something",
+   "synonym": "depends",
+   "ru": "зависит",
+   "ru_alt": "держится на",
+   "preteach": false
+  },
+  {
+   "word": "exploited",
+   "def_en": "used unfairly for profit",
+   "synonym": "used",
+   "ru": "эксплуатировали",
+   "ru_alt": "использовали в своих интересах",
+   "preteach": false
+  },
+  {
+   "word": "mammoth",
+   "def_en": "extremely large",
+   "synonym": "huge",
+   "ru": "огромный",
+   "ru_alt": "гигантский",
+   "preteach": false
+  },
+  {
+   "word": "cultivate",
+   "def_en": "to develop a quality or skill",
+   "synonym": "develop",
+   "ru": "развивать, культивировать",
+   "ru_alt": "взращивать",
+   "preteach": false
+  },
+  {
+   "word": "differentiation",
+   "def_en": "making something different from others",
+   "synonym": "distinction",
+   "ru": "дифференциация, отличие",
+   "ru_alt": "разграничение",
+   "preteach": false
+  },
+  {
+   "word": "gritty",
+   "def_en": "realistic and showing the harsh side of life",
+   "synonym": "raw",
+   "ru": "жёсткий, реалистичный",
+   "ru_alt": "суровый, правдивый",
+   "preteach": false
+  },
+  {
+   "word": "forged",
+   "def_en": "created or developed with effort",
+   "synonym": "created",
+   "ru": "создал, выковал",
+   "ru_alt": "сформировал",
+   "preteach": false
+  },
+  {
+   "word": "monopolistic",
+   "def_en": "controlling a market completely",
+   "synonym": "",
+   "ru": "монополистический",
+   "ru_alt": "захватывающий рынок",
+   "preteach": false
+  },
+  {
+   "word": "decree",
+   "def_en": "an official order from a court or government",
+   "synonym": "order",
+   "ru": "указ, постановление",
+   "ru_alt": "судебное решение",
+   "preteach": false
+  },
+  {
+   "word": "divestiture",
+   "def_en": "the act of selling or giving up business property",
+   "synonym": "",
+   "ru": "отчуждение активов, разделение",
+   "ru_alt": "принудительная продажа активов",
+   "preteach": false
+  },
+  {
+   "word": "compromised",
+   "def_en": "weakened or damaged",
+   "synonym": "weakened",
+   "ru": "подорвал, ослабил",
+   "ru_alt": "поставил под удар",
+   "preteach": false
+  },
+  {
+   "word": "bookends",
+   "def_en": "two things that mark the start and end of a period",
+   "synonym": "",
+   "ru": "рамки, границы",
+   "ru_alt": "начало и конец",
+   "preteach": false
+  },
+  {
+   "word": "hesitant",
+   "def_en": "unsure and slow to act",
+   "synonym": "reluctant",
+   "ru": "нерешительный",
+   "ru_alt": "колеблющийся",
+   "preteach": false
+  },
+  {
+   "word": "synchronized",
+   "def_en": "happening at exactly the same time",
+   "synonym": "coordinated",
+   "ru": "синхронизированный",
+   "ru_alt": "совпадающий по времени",
+   "preteach": false
+  },
+  {
+   "word": "elaborate",
+   "def_en": "very detailed and complicated",
+   "synonym": "complex",
+   "ru": "сложный, продуманный",
+   "ru_alt": "тщательно продуманный",
+   "preteach": false
+  },
+  {
+   "word": "consistent",
+   "def_en": "staying the same over time",
+   "synonym": "steady",
+   "ru": "стабильный",
+   "ru_alt": "неизменный",
+   "preteach": false
+  },
+  {
+   "word": "excelled",
+   "def_en": "was very good at something",
+   "synonym": "shone",
+   "ru": "преуспевал",
+   "ru_alt": "выделялся",
+   "preteach": false
+  },
+  {
+   "word": "distribution",
+   "def_en": "delivering goods or films to places where they are sold",
+   "synonym": "supply",
+   "ru": "распространение",
+   "ru_alt": "прокат",
+   "preteach": false
+  }
+ ],
+ "test-28-p3": [
+  {
+   "word": "lateralisation",
+   "def_en": "a preference for using one side of the body or brain",
+   "synonym": "one-sidedness",
+   "ru": "латерализация",
+   "ru_alt": "асимметрия полушарий",
+   "preteach": true
+  },
+  {
+   "word": "dominant",
+   "def_en": "stronger or more influential than others",
+   "synonym": "leading",
+   "ru": "доминирующий",
+   "ru_alt": "преобладающий",
+   "preteach": true
+  },
+  {
+   "word": "hemisphere",
+   "def_en": "one half of the brain",
+   "synonym": "half",
+   "ru": "полушарие",
+   "ru_alt": "половина мозга",
+   "preteach": true
+  },
+  {
+   "word": "vertebrate",
+   "def_en": "an animal with a backbone",
+   "synonym": "",
+   "ru": "позвоночное",
+   "ru_alt": "животное с позвоночником",
+   "preteach": true
+  },
+  {
+   "word": "prey",
+   "def_en": "an animal that is hunted for food",
+   "synonym": "quarry",
+   "ru": "добыча, жертва",
+   "ru_alt": "жертва охоты",
+   "preteach": true
+  },
+  {
+   "word": "bias",
+   "def_en": "a tendency to favour one thing over another",
+   "synonym": "preference",
+   "ru": "склонность, предпочтение",
+   "ru_alt": "перекос",
+   "preteach": false
+  },
+  {
+   "word": "simultaneously",
+   "def_en": "at the same time",
+   "synonym": "together",
+   "ru": "одновременно",
+   "ru_alt": "в одно и то же время",
+   "preteach": false
+  },
+  {
+   "word": "looming",
+   "def_en": "appearing as a threat",
+   "synonym": "threatening",
+   "ru": "нависающий, надвигающийся",
+   "ru_alt": "угрожающе нависающий",
+   "preteach": false
+  },
+  {
+   "word": "cognitive",
+   "def_en": "connected with thinking and understanding",
+   "synonym": "mental",
+   "ru": "когнитивный",
+   "ru_alt": "познавательный",
+   "preteach": false
+  },
+  {
+   "word": "ambidextrous",
+   "def_en": "able to use both hands equally well",
+   "synonym": "",
+   "ru": "амбидекстр, одинаково владеющий обеими руками",
+   "ru_alt": "владеющий обеими руками",
+   "preteach": false
+  },
+  {
+   "word": "peers",
+   "def_en": "others of the same group or level",
+   "synonym": "equals",
+   "ru": "сверстники",
+   "ru_alt": "ровесники",
+   "preteach": false
+  },
+  {
+   "word": "casualties",
+   "def_en": "people or animals killed or hurt",
+   "synonym": "victims",
+   "ru": "потери, жертвы",
+   "ru_alt": "пострадавшие",
+   "preteach": false
+  },
+  {
+   "word": "launch",
+   "def_en": "to start an attack",
+   "synonym": "begin",
+   "ru": "начать (атаку)",
+   "ru_alt": "предпринять",
+   "preteach": false
+  },
+  {
+   "word": "quarter",
+   "def_en": "a direction or source",
+   "synonym": "direction",
+   "ru": "сторона, направление",
+   "ru_alt": "с какой-то стороны",
+   "preteach": false
+  },
+  {
+   "word": "distracting",
+   "def_en": "taking your attention away",
+   "synonym": "",
+   "ru": "отвлекающий",
+   "ru_alt": "мешающий сосредоточиться",
+   "preteach": false
+  },
+  {
+   "word": "catalogue",
+   "def_en": "a long, organised list",
+   "synonym": "list",
+   "ru": "каталог, перечень",
+   "ru_alt": "подробный список",
+   "preteach": false
+  },
+  {
+   "word": "diverse",
+   "def_en": "very different from each other",
+   "synonym": "varied",
+   "ru": "разнообразный",
+   "ru_alt": "различный",
+   "preteach": false
+  },
+  {
+   "word": "predator",
+   "def_en": "an animal that hunts and kills other animals",
+   "synonym": "hunter",
+   "ru": "хищник",
+   "ru_alt": "зверь-охотник",
+   "preteach": false
+  },
+  {
+   "word": "advantageous",
+   "def_en": "helpful; giving a better position",
+   "synonym": "beneficial",
+   "ru": "выгодный, полезный",
+   "ru_alt": "выгодный для",
+   "preteach": false
+  },
+  {
+   "word": "trait",
+   "def_en": "a particular quality or characteristic",
+   "synonym": "characteristic",
+   "ru": "черта, особенность",
+   "ru_alt": "свойство",
+   "preteach": false
+  },
+  {
+   "word": "notion",
+   "def_en": "an idea or belief",
+   "synonym": "idea",
+   "ru": "представление",
+   "ru_alt": "идея",
+   "preteach": false
+  },
+  {
+   "word": "jaws",
+   "def_en": "the bones around the mouth",
+   "synonym": "",
+   "ru": "челюсти",
+   "ru_alt": "пасть",
+   "preteach": false
+  },
+  {
+   "word": "claws",
+   "def_en": "the sharp curved nails of an animal",
+   "synonym": "",
+   "ru": "когти",
+   "ru_alt": "острые коготки",
+   "preteach": false
+  },
+  {
+   "word": "proportion",
+   "def_en": "a part of a whole",
+   "synonym": "share",
+   "ru": "доля",
+   "ru_alt": "часть",
+   "preteach": false
+  },
+  {
+   "word": "wired",
+   "def_en": "built in a particular way, like a machine",
+   "synonym": "programmed",
+   "ru": "устроены",
+   "ru_alt": "запрограммированы от природы",
+   "preteach": false
+  }
+ ]
+}

@@ -273,8 +273,8 @@
     $('#goRead').onclick = function () { startReading(app); };
   }
   function defLines(g) {
-    return '<div class="def-line"><span class="eyebrow">Meaning</span><span>' + esc(g.def_en) + '</span></div><div class="def-line"><span class="eyebrow">Synonym</span><span>' + esc(g.synonym) + '</span></div>' +
-      (S.lang !== 'en' ? '<div class="def-line"><span class="eyebrow">По-русски</span><span>' + esc(g.ru) + '</span></div>' : '');
+    return '<div class="def-line"><span class="eyebrow">Meaning</span><span>' + esc(g.def_en) + '</span></div>' + (g.synonym ? '<div class="def-line"><span class="eyebrow">Synonym</span><span>' + esc(g.synonym) + '</span></div>' : '') +
+      (S.lang !== 'en' ? '<div class="def-line"><span class="eyebrow">По-русски</span><span>' + esc(g.ru) + '</span></div>' + (g.ru_alt ? '<div class="def-line"><span class="eyebrow">Ещё</span><span>' + esc(g.ru_alt) + '</span></div>' : '') : '');
   }
 
   function startReading(app) {
@@ -437,7 +437,7 @@
   function deckHas(w) { return S.state.deck.some(function (d) { return d.word.toLowerCase() === w.toLowerCase(); }); }
   function addToDeck(g) {
     if (deckHas(g.word)) return;
-    S.state.deck.push({ word: g.word, def_en: g.def_en, synonym: g.synonym, ru: g.ru, streak: 0, due: Date.now(), added: Date.now() });
+    S.state.deck.push({ word: g.word, def_en: g.def_en, synonym: g.synonym, ru: g.ru, ru_alt: g.ru_alt || '', streak: 0, due: Date.now(), added: Date.now() });
     persist();
   }
   function dueCount() { var n = Date.now(); return S.state.deck.filter(function (d) { return d.due <= n; }).length; }
