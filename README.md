@@ -9,3 +9,4 @@
 - `DEPLOY.md` — adding passages, local testing, security notes.
 
 Quick look (no accounts): `cd web && python3 -m http.server 8000` → http://localhost:8000
+.
