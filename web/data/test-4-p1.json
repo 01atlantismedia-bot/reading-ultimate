@@ -1,0 +1,484 @@
+{
+ "id": "test-4-p1",
+ "format": "test",
+ "test": 4,
+ "part": 1,
+ "title": "The Baobabs of Madagascar",
+ "subtitle": "The ancient baobabs of Madagascar are some of the largest and most distinctive trees in the world, but they face an uncertain future",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "The island of Madagascar in the Indian Ocean is the best place in the world to see baobabs."
+    },
+    {
+     "id": "p1s2",
+     "text": "These spectacular trees, with their massive trunks and distinctive horizontal root-like branches, can live over 800 years."
+    },
+    {
+     "id": "p1s3",
+     "text": "Of the eight known species, six are found only there, while a seventh has made its way across the Mozambique Channel from mainland Africa with a certain amount of human help."
+    },
+    {
+     "id": "p1s4",
+     "text": "Some of the most visited and photographed baobabs in Madagascar are at the Avenue des Baobabs in the western province of Menabe, close to the town of Morondava."
+    },
+    {
+     "id": "p1s5",
+     "text": "There, a dozen trees straddle a narrow sandy road, soaring 30 metres into the sky."
+    },
+    {
+     "id": "p1s6",
+     "text": "Known as renala – 'mother of the forest' – in the local Malagasy language, these trees belong to the tallest baobab species in the world: Adansonia grandidieri, named after two great 19th-century French botanists, Michel Adanson and Alfred Grandidier."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "Baobabs have religious and spiritual significance for many Malagasy tribes, although the majority of the island's population will probably never see one — they only grow along the western margin of the island and not in the more populous central highlands."
+    },
+    {
+     "id": "p2s2",
+     "text": "However, as the national tree and the national emblem, the trees are an ideal symbol for increasing awareness not only of the endangered forests, but also of the traditional beliefs of the people who live alongside them."
+    },
+    {
+     "id": "p2s3",
+     "text": "But what does the future hold for the Malagasy baobabs?"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "The Avenue des Baobabs is something of a contradiction; the 'natural' scene that tourists visit is actually man-made."
+    },
+    {
+     "id": "p3s2",
+     "text": "While the trees themselves are natural enough, the surrounding landscape was created by humans."
+    },
+    {
+     "id": "p3s3",
+     "text": "Back in the early 20th century, much of the Morondava plain was cleared for rice and sugar-cane fields."
+    },
+    {
+     "id": "p3s4",
+     "text": "However, many baobabs were spared because they are valuable as a food source and renewable building material, or they simply survived the fires that were set to clear the dry deciduous forest around them."
+    },
+    {
+     "id": "p3s5",
+     "text": "These days many stand alone in fields, a reminder of where the forest once was."
+    },
+    {
+     "id": "p3s6",
+     "text": "But now it seems that even the mighty baobabs are falling down."
+    },
+    {
+     "id": "p3s7",
+     "text": "'Every year I see new trees that have fallen,' says Jim Bond, an ethnobotanist who has studied Madagascar's baobabs for more than a decade."
+    },
+    {
+     "id": "p3s8",
+     "text": "The exact cause of the falling baobabs is uncertain, but some people think that the water used to irrigate the nearby fields is partly to blame."
+    },
+    {
+     "id": "p3s9",
+     "text": "Baobabs are adapted to the annual wet season, but their roots can't cope with constantly waterlogged soils."
+    },
+    {
+     "id": "p3s10",
+     "text": "Lone trees separated from the surrounding forest are also susceptible to cyclones, which reach speeds of over 200 kph in the area, and can easily uproot even a 30-metre baobab."
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "Baobabs elsewhere on the island are also facing a host of threats, with three of the six native species now listed as endangered by the World Conservation Union."
+    },
+    {
+     "id": "p4s2",
+     "text": "David Baum from the University of Wisconsin has spent years researching Malagasy baobabs."
+    },
+    {
+     "id": "p4s3",
+     "text": "'The main threat to their survival is land clearance for farming, which probably suppresses regeneration,' he says."
+    },
+    {
+     "id": "p4s4",
+     "text": "Burning is the usual method of clearing land, and while baobabs have some resistance to this, they will eventually succumb to repeated burning."
+    },
+    {
+     "id": "p4s5",
+     "text": "Human disturbance in the forest, such as logging, is also a problem."
+    },
+    {
+     "id": "p4s6",
+     "text": "This practice may be promoting the rapid spread of shrubby undergrowth, which quickly fills in the bright forest gaps needed for baobab germination."
+    },
+    {
+     "id": "p4s7",
+     "text": "Another problem the trees face is the dispersal of their seeds."
+    },
+    {
+     "id": "p4s8",
+     "text": "Baum suggests that dispersal is being limited by the absence of two large, now extinct animals — a gorilla-sized lemur and the three-metre-tall elephant bird."
+    },
+    {
+     "id": "p4s9",
+     "text": "Passage through the digestive tract of these giant fruit-eating animals probably once played a vital role in the distribution of the renala baobabs in particular."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "The Malagasy government is becoming increasingly concerned, as the baobab is key to the local tourism industry, and thus to the economy of the island as a whole."
+    },
+    {
+     "id": "p5s2",
+     "text": "But visiting and photographing the solitary trees in the dramatic open landscape at the Avenue des Baobabs isn't the only way to experience baobabs in Madagascar."
+    },
+    {
+     "id": "p5s3",
+     "text": "Within a few hours' drive of Morondava, three species of baobab can be seen in largely intact, dry forest habitat."
+    },
+    {
+     "id": "p5s4",
+     "text": "Jim Bond has led expeditions of Malagasy and foreign participants to the Mike forest in the island's southwest, which is almost certainly one of the least studied and least damaged areas of baobab forest left in Madagascar."
+    },
+    {
+     "id": "p5s5",
+     "text": "On his expeditions Bond works closely with local people to search for, and create maps of baobab distribution."
+    },
+    {
+     "id": "p5s6",
+     "text": "He also plans to compile an illustrated children's book of the many local folk-tales about the tree, hoping that national and international versions will help to spread the word about how important baobabs are in Malagasy culture."
+    },
+    {
+     "id": "p5s7",
+     "text": "But it's going to require some swift and coordinated action to ensure that the baobab becomes a symbol of conservation success, rather than a symbol of humanity's mistakes."
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 1–6",
+   "intro": "<p>Do the following statements agree with the information given in Reading Passage 1?</p>",
+   "questions": [
+    {
+     "id": "q1",
+     "n": 1,
+     "prompt": "All of the baobab species found on Madagascar are unique to the island.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "FALSE",
+     "anchors": [
+      "Madagascar",
+      "All",
+      "found",
+      "species",
+      "island",
+      "baobab"
+     ],
+     "evidence": "p1s1",
+     "conf": "med",
+     "where": "paragraph 1, sentence 1",
+     "matches": [
+      "island",
+      "Madagascar",
+      "baobabs"
+     ]
+    },
+    {
+     "id": "q2",
+     "n": 2,
+     "prompt": "Adanson and Grandidier were the first foreign botanists to visit Madagascar.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "NOT GIVEN",
+     "anchors": [
+      "Grandidier",
+      "Madagascar",
+      "first",
+      "botanists",
+      "Adanson",
+      "foreign"
+     ],
+     "evidence": "p1s6",
+     "conf": "low",
+     "where": "paragraph 1, sentence 6",
+     "matches": [
+      "botanists",
+      "Adanson",
+      "Grandidier"
+     ]
+    },
+    {
+     "id": "q3",
+     "n": 3,
+     "prompt": "The baobab can be found in most areas of Madagascar.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "FALSE",
+     "anchors": [
+      "Madagascar",
+      "most",
+      "found",
+      "areas",
+      "baobab"
+     ],
+     "evidence": "p5s4",
+     "conf": "high",
+     "where": "paragraph 5, sentence 4",
+     "matches": [
+      "areas",
+      "baobab",
+      "Madagascar"
+     ]
+    },
+    {
+     "id": "q4",
+     "n": 4,
+     "prompt": "The landscape around the Avenue des Baobabs is the result of agricultural development.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "TRUE",
+     "anchors": [
+      "Avenue",
+      "Baobabs",
+      "around",
+      "landscape",
+      "agricultural",
+      "development"
+     ],
+     "evidence": "p5s2",
+     "conf": "high",
+     "where": "paragraph 5, sentence 2",
+     "matches": [
+      "landscape",
+      "Avenue",
+      "Baobabs",
+      "baobabs"
+     ]
+    },
+    {
+     "id": "q5",
+     "n": 5,
+     "prompt": "The baobab provides useful products for the local people.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "TRUE",
+     "anchors": [
+      "people",
+      "local",
+      "baobab",
+      "provides"
+     ],
+     "evidence": "p5s5",
+     "conf": "high",
+     "where": "paragraph 5, sentence 5",
+     "matches": [
+      "local",
+      "people",
+      "baobab"
+     ]
+    },
+    {
+     "id": "q6",
+     "n": 6,
+     "prompt": "There is general agreement about the reasons for baobabs falling down.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "answer": "FALSE",
+     "anchors": [
+      "falling",
+      "baobabs",
+      "agreement",
+      "reasons"
+     ],
+     "evidence": "p3s6",
+     "conf": "med",
+     "where": "paragraph 3, sentence 6",
+     "matches": [
+      "baobabs",
+      "falling"
+     ]
+    }
+   ],
+   "type": "tfng"
+  },
+  {
+   "id": "g2",
+   "title": "Questions 7–13",
+   "intro": "<p>Complete the notes below.</p><p>Choose <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>",
+   "questions": [
+    {
+     "id": "q7",
+     "n": 7,
+     "prompt": "• trees may be falling down because of _____ from nearby fields",
+     "answer": "water",
+     "anchors": [
+      "because",
+      "nearby",
+      "falling",
+      "fields"
+     ],
+     "evidence": "p3s8",
+     "conf": "high",
+     "where": "paragraph 3, sentence 8",
+     "matches": [
+      "falling",
+      "nearby",
+      "fields"
+     ]
+    },
+    {
+     "id": "q8",
+     "n": 8,
+     "prompt": "• lone trees are at risk from _____",
+     "answer": "cyclones",
+     "anchors": [
+      "lone",
+      "trees",
+      "risk"
+     ],
+     "evidence": "p3s10",
+     "conf": "high",
+     "where": "paragraph 3, sentence 10",
+     "matches": [
+      "Lone",
+      "trees"
+     ]
+    },
+    {
+     "id": "q9",
+     "n": 9,
+     "prompt": "• carried out to create space for _____ activity",
+     "answer": "farming",
+     "anchors": [
+      "create",
+      "activity",
+      "carried",
+      "space"
+     ],
+     "evidence": "p4s3",
+     "conf": "high",
+     "where": "paragraph 4, sentence 3",
+     "matches": []
+    },
+    {
+     "id": "q10",
+     "n": 10,
+     "prompt": "• practice of _____ makes seed germination difficult",
+     "answer": "logging",
+     "anchors": [
+      "germination",
+      "practice",
+      "seed",
+      "difficult"
+     ],
+     "evidence": "p4s5",
+     "conf": "high",
+     "where": "paragraph 4, sentence 5",
+     "matches": []
+    },
+    {
+     "id": "q11",
+     "n": 11,
+     "prompt": "• disappearance of certain _____ which dispersed baobab seeds",
+     "answer": "animals",
+     "anchors": [
+      "seeds",
+      "certain",
+      "baobab",
+      "disappearance"
+     ],
+     "evidence": "p4s9",
+     "conf": "high",
+     "where": "paragraph 4, sentence 9",
+     "matches": [
+      "baobabs"
+     ]
+    },
+    {
+     "id": "q12",
+     "n": 12,
+     "prompt": "• making _____ of areas of relatively undamaged baobab forest",
+     "answer": "maps",
+     "anchors": [
+      "areas",
+      "forest",
+      "baobab",
+      "relatively"
+     ],
+     "evidence": "p5s5",
+     "conf": "high",
+     "where": "paragraph 5, sentence 5",
+     "matches": [
+      "baobab"
+     ]
+    },
+    {
+     "id": "q13",
+     "n": 13,
+     "prompt": "• producing a _____ showing importance of baobab in local culture",
+     "answer": "book",
+     "anchors": [
+      "culture",
+      "local",
+      "baobab",
+      "importance"
+     ],
+     "evidence": "p5s6",
+     "conf": "high",
+     "where": "paragraph 5, sentence 6",
+     "matches": [
+      "local",
+      "baobabs",
+      "culture"
+     ]
+    }
+   ],
+   "template": "\n<p class=\"ct\">Baobabs under threat</p>\n<p>Reasons why Madagascar&#x27;s baobabs are declining in number:</p>\n<p><strong>Morondava area</strong></p><ul><li>trees may be falling down because of {{7}} from nearby fields</li><li>lone trees are at risk from {{8}}</li></ul>\n<p><strong>Forest areas</strong></p><ul><li>land clearance: mainly by burning</li><li>carried out to create space for {{9}} activity</li><li>practice of {{10}} makes seed germination difficult</li><li>disappearance of certain {{11}} which dispersed baobab seeds</li></ul>\n<p><strong>Jim Bond&#x27;s efforts to record information about the baobab:</strong></p><ul><li>making {{12}} of areas of relatively undamaged baobab forest</li><li>producing a {{13}} showing importance of baobab in local culture</li></ul>\n",
+   "type": "completion"
+  }
+ ]
+}

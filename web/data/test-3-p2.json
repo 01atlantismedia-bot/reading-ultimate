@@ -1,0 +1,619 @@
+{
+ "id": "test-3-p2",
+ "format": "test",
+ "test": 3,
+ "part": 2,
+ "title": "Can a global database of fossils help us predict the future of biodiversity on Earth?",
+ "subtitle": "The history of life on Earth includes five major extinction episodes, which have each destroyed at least three quarters of all species, followed by life's resurgence. Whether we are now living through a sixth episode is not certain as we don't have a clear picture of how life changes between extinction events, or what has happened in previous episodes. A new project aims to fill some of the gaps.",
+ "level": "Academic Reading",
+ "minutes": 20,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "label": "A",
+   "sentences": [
+    {
+     "id": "p1s1",
+     "text": "The Paleobiology Database aims to be an online collection of information about every fossil ever dug up."
+    },
+    {
+     "id": "p1s2",
+     "text": "Its organisers hope that by recording the history of biodiversity they will gain an insight into how environmental changes have shaped life on Earth in the past, and how they might do so in the future."
+    },
+    {
+     "id": "p1s3",
+     "text": "However, some experts believe the project to be seriously flawed, claiming that the fossil record is riddled with holes and biases."
+    },
+    {
+     "id": "p1s4",
+     "text": "Others point out that, even if all current fossil finds were catalogued, they would provide an incomplete inventory of life because we are far from discovering every fossilised species."
+    },
+    {
+     "id": "p1s5",
+     "text": "The disagreement has opened up a debate about the value of trying to measure biodiversity."
+    },
+    {
+     "id": "p1s6",
+     "text": "Advocates of the Paleobiology Database acknowledge that the fossil record will always be incomplete, but they see value in looking for global patterns that show relative changes in biodiversity, claiming that an estimate of the rate of extinctions in the past provides a benchmark for determining the relative gravity of the mass extinction that is currently underway."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "label": "B",
+   "sentences": [
+    {
+     "id": "p2s1",
+     "text": "To this end, scientists around the world regularly add information about fossil finds to the Paleobiology Database."
+    },
+    {
+     "id": "p2s2",
+     "text": "Already the database has thrown up some surprising results."
+    },
+    {
+     "id": "p2s3",
+     "text": "John Alroy and his colleagues from the National Center for Ecological Analysis and Synthesis in Santa Barbara believe they have found evidence that biodiversity reached a plateau long ago, contrary to the received wisdom that species numbers have increased continuously between extinction events."
+    },
+    {
+     "id": "p2s4",
+     "text": "This evidence suggests that only a certain number of species can live on Earth at one time, filling a prescribed number of niches."
+    },
+    {
+     "id": "p2s5",
+     "text": "Once it is full, no more species can squeeze in, until extinctions free up new spaces."
+    },
+    {
+     "id": "p2s6",
+     "text": "So the current extinction episode might lead to a rapid burst of evolution over the next few million years."
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "label": "C",
+   "sentences": [
+    {
+     "id": "p3s1",
+     "text": "Alroy has also used the database to check species names."
+    },
+    {
+     "id": "p3s2",
+     "text": "He suggests that irregularities in classification inflate the overall number of species in the fossil record by between 32 and 44 per cent."
+    },
+    {
+     "id": "p3s3",
+     "text": "Single species often end up with several names, he says, due to misidentification, or poor communication between taxonomists in different countries."
+    },
+    {
+     "id": "p3s4",
+     "text": "Repetition can distort diversity curves."
+    },
+    {
+     "id": "p3s5",
+     "text": "'If you have a really bad taxonomy in one short interval, it will look like a diversity spike - a big diversification followed by a big extinction - when all that has happened is a change in the quality of the names,' says Alroy."
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "label": "D",
+   "sentences": [
+    {
+     "id": "p4s1",
+     "text": "The fossil record is undeniably patchy."
+    },
+    {
+     "id": "p4s2",
+     "text": "Some places have been more thoroughly investigated than others."
+    },
+    {
+     "id": "p4s3",
+     "text": "And certain types of creatures - those with hard parts that lived in oceans, for example - are more likely to leave a record behind, while others, like the jellyfish, will always remain a mystery."
+    },
+    {
+     "id": "p4s4",
+     "text": "Alroy has tried to make allowances for this in his calculations."
+    },
+    {
+     "id": "p4s5",
+     "text": "He estimates, for example, that only 41 percent of North American mammals that have ever lived are known from fossils, and he suspects that a similar proportion of fossils are missing from other groups such as fungi and insects."
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "label": "E",
+   "sentences": [
+    {
+     "id": "p5s1",
+     "text": "Not everyone is impressed with this mathematical wizardry."
+    },
+    {
+     "id": "p5s2",
+     "text": "Jonathan Adrain from the University of Iowa points out that it is easy to misinterpret statistics and says that mistakes have been known to create mass extinctions where none occurred."
+    },
+    {
+     "id": "p5s3",
+     "text": "For example, changes in sea level or inconsistent sampling methods can mimic major changes in biodiversity."
+    },
+    {
+     "id": "p5s4",
+     "text": "Adrain believes that fancy analytical techniques are no substitute for hard evidence, but he has also seen how unhelpful historical collections can be."
+    },
+    {
+     "id": "p5s5",
+     "text": "He claims the answer is to get out and search for new data."
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "label": "F",
+   "sentences": [
+    {
+     "id": "p6s1",
+     "text": "Other people argue that whatever the scale of the Paleobiology Database, simply counting and documenting past species will give little insight into the current biodiversity crisis."
+    },
+    {
+     "id": "p6s2",
+     "text": "According to David Jablonsky from the University of Chicago, this approach fails to account for how species relate to each other and to the world around them."
+    },
+    {
+     "id": "p6s3",
+     "text": "'I'm not claiming that every single beetle in the Amazon forest is essential,' he says, 'but some may be crucial as pollinators or links in the food chain."
+    },
+    {
+     "id": "p6s4",
+     "text": "It's all tied together.'"
+    },
+    {
+     "id": "p6s5",
+     "text": "This suggests that even if species are not yet disappearing at the same rate as they did in past extinctions, disrupting the balance of nature may endanger entire ecosystems."
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "label": "G",
+   "sentences": [
+    {
+     "id": "p7s1",
+     "text": "A complete Paleobiology Database might allow scientists to compare today's extinctions to patterns in the past."
+    },
+    {
+     "id": "p7s2",
+     "text": "But predictions about what will happen next depend on our knowledge of the species alive today, which is far from certain."
+    },
+    {
+     "id": "p7s3",
+     "text": "Fewer than two million species have been identified, but most experts suspect the total falls between 10 and 20 million."
+    },
+    {
+     "id": "p7s4",
+     "text": "If they had a database of all living species, ecologists could start to put the current biodiversity crisis in a historical perspective."
+    },
+    {
+     "id": "p7s5",
+     "text": "Although creating such a list would be a task to rival the Paleobiology Database, it is exactly what the San Francisco-based ALL Species Foundation hopes to achieve in the next 25 years."
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "label": "",
+   "sentences": [
+    {
+     "id": "p8s1",
+     "text": "fossil - the remains of a former living thing preserved in rock."
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "Questions 14–20",
+   "intro": "<p>Reading Passage 2 has seven paragraphs, <strong>A-G</strong>.</p><p>Choose the correct heading for each section from the list of headings below.</p>",
+   "questions": [
+    {
+     "id": "q14",
+     "n": 14,
+     "prompt": "Paragraph A",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "iv",
+     "anchors": [
+      "purpose",
+      "fossil",
+      "database"
+     ],
+     "evidence": "p1s1",
+     "conf": "high",
+     "where": "paragraph A, sentence 1",
+     "matches": [
+      "Database",
+      "fossil"
+     ]
+    },
+    {
+     "id": "q15",
+     "n": 15,
+     "prompt": "Paragraph B",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "ii",
+     "anchors": [
+      "group's",
+      "unexpected",
+      "findings"
+     ],
+     "evidence": null,
+     "conf": "med"
+    },
+    {
+     "id": "q16",
+     "n": 16,
+     "prompt": "Paragraph C",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "vii",
+     "anchors": [
+      "Inaccuracies",
+      "caused",
+      "multiple",
+      "entries"
+     ],
+     "evidence": "p3s1",
+     "conf": "med",
+     "where": "paragraph C, sentence 1",
+     "matches": []
+    },
+    {
+     "id": "q17",
+     "n": 17,
+     "prompt": "Paragraph D",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "i",
+     "anchors": [
+      "species",
+      "database"
+     ],
+     "evidence": null,
+     "conf": "med"
+    },
+    {
+     "id": "q18",
+     "n": 18,
+     "prompt": "Paragraph E",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "viii",
+     "anchors": [
+      "Potential",
+      "errors",
+      "make",
+      "necessary"
+     ],
+     "evidence": null,
+     "conf": "med"
+    },
+    {
+     "id": "q19",
+     "n": 19,
+     "prompt": "Paragraph F",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "vi",
+     "anchors": [
+      "necessary",
+      "consider",
+      "role",
+      "played"
+     ],
+     "evidence": "p6s1",
+     "conf": "med",
+     "where": "paragraph F, sentence 1",
+     "matches": []
+    },
+    {
+     "id": "q20",
+     "n": 20,
+     "prompt": "Paragraph G",
+     "options": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vi",
+      "vii",
+      "viii"
+     ],
+     "answer": "iii",
+     "anchors": [
+      "Plans",
+      "database",
+      "existing",
+      "species"
+     ],
+     "evidence": "p7s4",
+     "conf": "high",
+     "where": "paragraph G, sentence 4",
+     "matches": [
+      "database",
+      "species"
+     ]
+    }
+   ],
+   "list": [
+    {
+     "k": "i",
+     "t": "Why some species are not on the database"
+    },
+    {
+     "k": "ii",
+     "t": "One group's unexpected findings"
+    },
+    {
+     "k": "iii",
+     "t": "Plans for a database of existing species"
+    },
+    {
+     "k": "iv",
+     "t": "The purpose of the fossil database"
+    },
+    {
+     "k": "v",
+     "t": "How publicity for the project is being created"
+    },
+    {
+     "k": "vi",
+     "t": "Why it is necessary to consider the role played by different species"
+    },
+    {
+     "k": "vii",
+     "t": "Inaccuracies caused by multiple entries for the same species"
+    },
+    {
+     "k": "viii",
+     "t": "Potential errors make it necessary to hunt for more real fossils"
+    }
+   ],
+   "type": "heading"
+  },
+  {
+   "id": "g2",
+   "title": "Questions 21–22",
+   "intro": "<p>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.</p><p>According to the article, which TWO of the following statements are true of the Paleobiology Database?</p>",
+   "questions": [
+    {
+     "id": "q21",
+     "n": 21,
+     "n2": 22,
+     "marks": 2,
+     "prompt": "According to the article, which TWO of the following statements are true of the Paleobiology Database?",
+     "options": [
+      "A. It contains a record of all known fossils.",
+      "B. It has produced mixed views among experts.",
+      "C. It has been rewritten several times.",
+      "D. It includes entries from many parts of the globe.",
+      "E. It indicates that species numbers are still rising."
+     ],
+     "answer": [
+      "B",
+      "D"
+     ],
+     "anchors": [
+      "Paleobiology Database",
+      "following",
+      "According",
+      "parts",
+      "experts"
+     ],
+     "evidence": "p1s1",
+     "conf": "med",
+     "where": "paragraph A, sentence 1",
+     "matches": [
+      "Paleobiology",
+      "Database"
+     ]
+    }
+   ],
+   "type": "multi"
+  },
+  {
+   "id": "g3",
+   "title": "Questions 23–26",
+   "intro": "<p>Complete each sentence with the correct ending, <strong>A-F</strong>, below.</p>",
+   "questions": [
+    {
+     "id": "q23",
+     "n": 23,
+     "prompt": "The jellyfish is given as an example of",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "D",
+     "anchors": [
+      "jellyfish",
+      "hard",
+      "example",
+      "fossil"
+     ],
+     "evidence": "p4s3",
+     "conf": "high",
+     "where": "paragraph D, sentence 3",
+     "matches": [
+      "hard",
+      "example",
+      "jellyfish"
+     ]
+    },
+    {
+     "id": "q24",
+     "n": 24,
+     "prompt": "One thing Adrain highlights is",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "E",
+     "anchors": [
+      "Adrain",
+      "thing",
+      "data",
+      "highlights",
+      "relying"
+     ],
+     "evidence": "p5s2",
+     "conf": "med",
+     "where": "paragraph E, sentence 2",
+     "matches": [
+      "Adrain"
+     ]
+    },
+    {
+     "id": "q25",
+     "n": 25,
+     "prompt": "In Jablonsky's opinion it is vital to investigate",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "F",
+     "anchors": [
+      "Jablonsky's",
+      "others",
+      "species",
+      "investigate",
+      "opinion"
+     ],
+     "evidence": "p1s4",
+     "conf": "med",
+     "where": "paragraph A, sentence 4",
+     "matches": [
+      "Others",
+      "species"
+     ]
+    },
+    {
+     "id": "q26",
+     "n": 26,
+     "prompt": "The writer concludes that scientists should also focus on",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "A",
+     "anchors": [
+      "rather",
+      "scientists",
+      "living",
+      "fossils",
+      "concludes"
+     ],
+     "evidence": "p2s1",
+     "conf": "med",
+     "where": "paragraph B, sentence 1",
+     "matches": [
+      "scientists",
+      "fossil"
+     ]
+    }
+   ],
+   "list": [
+    {
+     "k": "A",
+     "t": "living animals rather than just fossils."
+    },
+    {
+     "k": "B",
+     "t": "the range of species already contained in the fossil file."
+    },
+    {
+     "k": "C",
+     "t": "creatures that exist in small numbers."
+    },
+    {
+     "k": "D",
+     "t": "a species that is hard to detect in fossil form."
+    },
+    {
+     "k": "E",
+     "t": "the danger of relying on data alone."
+    },
+    {
+     "k": "F",
+     "t": "the effect of one species on others."
+    }
+   ],
+   "type": "match"
+  }
+ ]
+}
